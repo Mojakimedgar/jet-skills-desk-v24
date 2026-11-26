@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% block title %}Analytics Dashboards | JET Skills Desk{% endblock %}
+{% block description %}Research, career guidance and learner pipeline analytics for the JET skills ecosystem, with the source of every figure.{% endblock %}
+{% block main %}
+<section class="page-hero"><div class="wrap"><span class="eyebrow">Analytics</span><h1>The numbers behind <em>JET skills</em></h1><p class="lede">Three views of the Desk's work: what the Research Repository holds and how it is used, which occupations and qualifications people are exploring, and how many learners are in training, internships and employment for each workstream. Every figure shows where it came from, and a dashboard stays empty until real data exists.</p><div class="hero-actions"><a class="btn btn-green" href="#research">Research</a><a class="btn btn-outline" href="#career-guidance">Career guidance</a><a class="btn btn-outline" href="#learner-pipeline">Learner pipeline</a></div></div></section>
+
+<section id="research" class="section wrap"><div class="section-head"><span class="eyebrow">Dashboard 1</span><h2>Research Analytics</h2><p>Total records, content types, ingestion trends and most-viewed artefacts in the Research Repository.</p></div>
+<div id="rKpis" class="kpis" aria-live="polite"></div>
+<div class="dash-grid"><article class="dash-card"><h3>Records by content type</h3><div id="rGroups" class="bars"></div></article><article class="dash-card"><h3>Records by theme</h3><p class="dash-sub">An artefact can belong to more than one theme.</p><div id="rThemes" class="bars"></div></article>
+<article class="dash-card"><h3>Records by publication year</h3><p class="dash-sub">Year the artefact was published, not the year it was added.</p><div id="rYears" class="cols"></div></article><article class="dash-card"><h3>Ingestion trend</h3><div id="rIngest"></div></article>
+<article class="dash-card dash-wide"><h3>Most-viewed artefacts</h3><p class="dash-sub" id="rViewsNote"></p><ol id="rViews" class="rank"></ol></article>
+<article class="dash-card dash-wide"><h3>External sources the Desk monitors</h3><p id="rHarvest" class="dash-sub"></p></article></div></section>
+
+<section id="career-guidance" class="section section-wash"><div class="wrap"><div class="section-head"><span class="eyebrow">Dashboard 2</span><h2>Career Guidance Analytics</h2><p>High-demand occupation rankings, enrolments by green economy theme and questionnaire completions.</p></div>
+<div id="cKpis" class="kpis" aria-live="polite"></div>
+<div class="dash-grid"><article class="dash-card"><h3>Largest occupation categories by employment</h3><p class="dash-sub">JET priority occupations grouped by QLFS category, South Africa, Q2 2026.</p><div id="cEmployed" class="bars"></div></article><article class="dash-card"><h3>Most unemployed people by previous occupation</h3><p class="dash-sub">Unemployed people whose previous work fell in the category. Not vacancies.</p><div id="cUnemployed" class="bars"></div></article>
+<article class="dash-card"><h3>2024 high-demand list by NQF level</h3><p class="dash-sub" id="cNqfNote"></p><div id="cNqf" class="cols"></div></article><article class="dash-card"><h3>JET-related occupations on the list, by workstream</h3><p class="dash-sub">Indicative workstream mapping; an occupation can serve more than one.</p><div id="cWs" class="bars"></div></article>
+<article class="dash-card dash-wide"><h3>Enrolments by green economy theme</h3><div id="cEnrol"></div></article>
+<article class="dash-card"><h3>Questionnaire completions</h3><div id="cQDaily"></div></article><article class="dash-card"><h3>Who completes it</h3><div id="cQLevel" class="bars"></div><h4 class="dash-h4">Areas chosen</h4><div id="cQArea" class="bars"></div></article>
+<article class="dash-card dash-wide"><h3>Occupations most often matched</h3><p class="dash-sub">How often an occupation appeared in a visitor's top three matches.</p><div id="cQTop" class="bars"></div></article></div>
+<aside class="hb-context" id="cNotes"><h3>How to read these figures</h3><ul id="cCaveats"></ul></aside></div></section>
+
+<section id="learner-pipeline" class="section wrap"><div class="section-head"><span class="eyebrow">Dashboard 3</span><h2>Learner Pipeline Analytics</h2><p>The number of learners in training, in internships and in employment for each workstream: the ecosystem's headline monitoring view.</p></div>
+<div class="dash-tools"><label>Reporting period<select id="pPeriod" disabled><option>No data yet</option></select></label><a class="text-link" href="/api/dashboards/template/learner_pipeline.csv">Download the reporting template (CSV) ↓</a></div>
+<div id="pKpis" class="kpis" aria-live="polite"></div>
+<article class="dash-card dash-wide"><h3>Learners at each stage, by workstream</h3><div id="pLegend" class="legend"></div><div id="pBars"></div></article>
+<article class="dash-card dash-wide"><h3>Who reported this period</h3><div id="pSources"></div></article>
+<aside class="hb-context"><h3>How the data arrives</h3><p>This dashboard depends on data-sharing with SETAs, training providers, employers and workstream partners. Partners report aggregate counts using the standard template above (period, workstream, stage, number of learners, reporting organisation and source). The Desk's harvester also finds learner, intern and graduate figures in public reports, such as JET programme reports. These go to a review queue, and nothing is shown here until a person has checked and approved it. Only aggregate counts are accepted: no names or ID numbers.</p><ul id="pNotes"></ul></aside></section>
+
+<section class="section section-wash"><div class="wrap"><div class="section-head"><span class="eyebrow">Privacy</span><h2>What these dashboards record</h2></div><p class="note" style="max-width:80ch">Usage counts (opened synopses, copied references, completed questionnaires) are simple totals. We do not store IP addresses, device details, cookies or anyone's questionnaire answers, and the counts cannot be traced to a person. Occupation and labour-market figures come from official sources cited beside each chart.</p></div></section>
+{% endblock %}
+{% block scripts %}<script src="{{ url_for('static',filename='js/dashboards.js',v='1') }}" defer></script>{% endblock %}

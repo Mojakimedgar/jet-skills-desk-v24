@@ -1,0 +1,5799 @@
+{
+ "updated": "2026-11-21",
+ "origin": "gazette fixture",
+ "count": 350,
+ "note": "Occupation names, OFO codes and minimum qualifications are from the official 2024 list. Minimum qualifications are sign-posts for skills planning, not employment requirements. The list records that an occupation is in high demand; it does not give a graded demand rating.",
+ "occupations": [
+  {
+   "ofo_code": "111202",
+   "ofo_version": "2021",
+   "name": "General Manager Public Service",
+   "major_group": "Managers",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "111204",
+   "ofo_version": "2021",
+   "name": "Senior Government Official",
+   "major_group": "Managers",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "111205",
+   "ofo_version": "2021",
+   "name": "Senior Police Officer",
+   "major_group": "Managers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "111207",
+   "ofo_version": "2021",
+   "name": "Senior Government Manager",
+   "major_group": "Managers",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "112101",
+   "ofo_version": "2021",
+   "name": "Director (Enterprise / Organisation)",
+   "major_group": "Managers",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "121101",
+   "ofo_version": "2021",
+   "name": "Finance Manager",
+   "major_group": "Managers",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "121103",
+   "ofo_version": "2021",
+   "name": "Credit Manager",
+   "major_group": "Managers",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "121104",
+   "ofo_version": "2021",
+   "name": "Internal Audit Manager",
+   "major_group": "Managers",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "121201",
+   "ofo_version": "2021",
+   "name": "Human Resource Manager",
+   "major_group": "Managers",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "121202",
+   "ofo_version": "2021",
+   "name": "Business Training Manager",
+   "major_group": "Managers",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "121204",
+   "ofo_version": "2021",
+   "name": "Recruitment Manager",
+   "major_group": "Managers",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "121206",
+   "ofo_version": "2021",
+   "name": "Health and Safety Manager",
+   "major_group": "Managers",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   },
+   "jet": {
+    "workstreams": [
+     "RE",
+     "NEV",
+     "GH2",
+     "MUN"
+    ],
+    "relevance": "supporting",
+    "interests": [
+     "planning",
+     "people"
+    ],
+    "mapping_status": "Indicative, to be confirmed by workstream leads"
+   }
+  },
+  {
+   "ofo_code": "121301",
+   "ofo_version": "2021",
+   "name": "Policy and Planning Manager",
+   "major_group": "Managers",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   },
+   "jet": {
+    "workstreams": [
+     "MUN"
+    ],
+    "relevance": "supporting",
+    "interests": [
+     "planning"
+    ],
+    "mapping_status": "Indicative, to be confirmed by workstream leads"
+   }
+  },
+  {
+   "ofo_code": "121901",
+   "ofo_version": "2021",
+   "name": "Corporate General Manager",
+   "major_group": "Managers",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "121902",
+   "ofo_version": "2021",
+   "name": "Corporate Services Manager",
+   "major_group": "Managers",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "121903",
+   "ofo_version": "2021",
+   "name": "Physical Asset Manager",
+   "major_group": "Managers",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   },
+   "jet": {
+    "workstreams": [
+     "MUN"
+    ],
+    "relevance": "supporting",
+    "interests": [
+     "planning"
+    ],
+    "mapping_status": "Indicative, to be confirmed by workstream leads"
+   }
+  },
+  {
+   "ofo_code": "121904",
+   "ofo_version": "2021",
+   "name": "Contract Manager",
+   "major_group": "Managers",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "121905",
+   "ofo_version": "2021",
+   "name": "Programme or Project Manager",
+   "major_group": "Managers",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   },
+   "jet": {
+    "workstreams": [
+     "RE",
+     "NEV",
+     "GH2",
+     "MUN"
+    ],
+    "relevance": "supporting",
+    "interests": [
+     "planning",
+     "people"
+    ],
+    "mapping_status": "Indicative, to be confirmed by workstream leads"
+   }
+  },
+  {
+   "ofo_code": "121908",
+   "ofo_version": "2021",
+   "name": "Quality Systems Manager",
+   "major_group": "Managers",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "121909",
+   "ofo_version": "2021",
+   "name": "Sustainability Manager",
+   "major_group": "Managers",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   },
+   "jet": {
+    "workstreams": [
+     "RE",
+     "GH2",
+     "MUN"
+    ],
+    "relevance": "supporting",
+    "interests": [
+     "planning",
+     "people"
+    ],
+    "mapping_status": "Indicative, to be confirmed by workstream leads"
+   }
+  },
+  {
+   "ofo_code": "121910",
+   "ofo_version": "2021",
+   "name": "Water Asset Manager",
+   "major_group": "Managers",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "122101",
+   "ofo_version": "2021",
+   "name": "Sales and Marketing Manager",
+   "major_group": "Managers",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "122103",
+   "ofo_version": "2021",
+   "name": "Director of Marketing",
+   "major_group": "Managers",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "122105",
+   "ofo_version": "2021",
+   "name": "Customer Service Manager",
+   "major_group": "Managers",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "122201",
+   "ofo_version": "2021",
+   "name": "Advertising and Public Relations Manager",
+   "major_group": "Managers",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "122301",
+   "ofo_version": "2021",
+   "name": "Research and Development Manager",
+   "major_group": "Managers",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "131101",
+   "ofo_version": "2021",
+   "name": "Agricultural Farm Manager",
+   "major_group": "Managers",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "132102",
+   "ofo_version": "2021",
+   "name": "Manufacturing Operations Manager",
+   "major_group": "Managers",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "132104",
+   "ofo_version": "2021",
+   "name": "Engineering Manager",
+   "major_group": "Managers",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "132107",
+   "ofo_version": "2021",
+   "name": "Quality Manager",
+   "major_group": "Managers",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "132201",
+   "ofo_version": "2021",
+   "name": "Mining Manager",
+   "major_group": "Managers",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "132301",
+   "ofo_version": "2021",
+   "name": "Construction Project Manager",
+   "major_group": "Managers",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   },
+   "jet": {
+    "workstreams": [
+     "RE"
+    ],
+    "relevance": "supporting",
+    "interests": [
+     "planning",
+     "people",
+     "outdoors"
+    ],
+    "mapping_status": "Indicative, to be confirmed by workstream leads"
+   }
+  },
+  {
+   "ofo_code": "132401",
+   "ofo_version": "2021",
+   "name": "Supply and Distribution Manager",
+   "major_group": "Managers",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "132402",
+   "ofo_version": "2021",
+   "name": "Logistics Manager",
+   "major_group": "Managers",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "132403",
+   "ofo_version": "2021",
+   "name": "Road Transport Manager",
+   "major_group": "Managers",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "132404",
+   "ofo_version": "2021",
+   "name": "Warehouse Manager",
+   "major_group": "Managers",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "132405",
+   "ofo_version": "2021",
+   "name": "Fleet Manager",
+   "major_group": "Managers",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "132407",
+   "ofo_version": "2021",
+   "name": "Airport or Harbour Manager",
+   "major_group": "Managers",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "132410",
+   "ofo_version": "2021",
+   "name": "Maritime Search and Rescue Mission Coordinator",
+   "major_group": "Managers",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "133101",
+   "ofo_version": "2021",
+   "name": "Chief Information Officer",
+   "major_group": "Managers",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "133102",
+   "ofo_version": "2021",
+   "name": "ICT Project Manager",
+   "major_group": "Managers",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "133103",
+   "ofo_version": "2021",
+   "name": "Data Management Manager",
+   "major_group": "Managers",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "133105",
+   "ofo_version": "2021",
+   "name": "Information Technology Manager",
+   "major_group": "Managers",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "134205",
+   "ofo_version": "2021",
+   "name": "Health Service Specialised Clinic Manager",
+   "major_group": "Managers",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "134501",
+   "ofo_version": "2021",
+   "name": "School Principal",
+   "major_group": "Managers",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "134502",
+   "ofo_version": "2021",
+   "name": "College Principal",
+   "major_group": "Managers",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "134503",
+   "ofo_version": "2021",
+   "name": "Faculty Head",
+   "major_group": "Managers",
+   "qualification": "Doctoral Degree (NQF Level 10)",
+   "nqf": 10,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "134506",
+   "ofo_version": "2021",
+   "name": "Educational Registrar",
+   "major_group": "Managers",
+   "qualification": "Doctoral Degree (NQF Level 10)",
+   "nqf": 10,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "134507",
+   "ofo_version": "2021",
+   "name": "Departmental Head",
+   "major_group": "Managers",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "134901",
+   "ofo_version": "2021",
+   "name": "Environmental Manager",
+   "major_group": "Managers",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   },
+   "jet": {
+    "workstreams": [
+     "RE",
+     "GH2",
+     "MUN"
+    ],
+    "relevance": "supporting",
+    "interests": [
+     "planning",
+     "outdoors"
+    ],
+    "mapping_status": "Indicative, to be confirmed by workstream leads"
+   }
+  },
+  {
+   "ofo_code": "134903",
+   "ofo_version": "2021",
+   "name": "Small Business Manager",
+   "major_group": "Managers",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "141201",
+   "ofo_version": "2021",
+   "name": "Café (Licensed) or Restaurant Manager",
+   "major_group": "Managers",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "142101",
+   "ofo_version": "2021",
+   "name": "Importer or Exporter",
+   "major_group": "Managers",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "142103",
+   "ofo_version": "2021",
+   "name": "Retail General Manager",
+   "major_group": "Managers",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "143901",
+   "ofo_version": "2021",
+   "name": "Facilities Manager",
+   "major_group": "Managers",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "143905",
+   "ofo_version": "2021",
+   "name": "Call or Contact Centre Manager",
+   "major_group": "Managers",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "143906",
+   "ofo_version": "2021",
+   "name": "Caravan Park and Camping Ground Manager",
+   "major_group": "Managers",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "211301",
+   "ofo_version": "2021",
+   "name": "Chemist",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   },
+   "jet": {
+    "workstreams": [
+     "GH2"
+    ],
+    "relevance": "supporting",
+    "interests": [
+     "chemical",
+     "analytical"
+    ],
+    "mapping_status": "Indicative, to be confirmed by workstream leads"
+   }
+  },
+  {
+   "ofo_code": "211302",
+   "ofo_version": "2021",
+   "name": "Manufacturing Research Chemist",
+   "major_group": "Professionals",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "211401",
+   "ofo_version": "2021",
+   "name": "Geologist",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "211402",
+   "ofo_version": "2021",
+   "name": "Geophysicist",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "211406",
+   "ofo_version": "2021",
+   "name": "Hydrologist",
+   "major_group": "Professionals",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "212101",
+   "ofo_version": "2021",
+   "name": "Actuary",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "212102",
+   "ofo_version": "2021",
+   "name": "Mathematician",
+   "major_group": "Professionals",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "212103",
+   "ofo_version": "2021",
+   "name": "Statistician",
+   "major_group": "Professionals",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "213102",
+   "ofo_version": "2021",
+   "name": "General Biologist",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "213104",
+   "ofo_version": "2021",
+   "name": "Biochemist",
+   "major_group": "Professionals",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "213105",
+   "ofo_version": "2021",
+   "name": "Biotechnologist",
+   "major_group": "Professionals",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "213109",
+   "ofo_version": "2021",
+   "name": "Zoologist",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "213110",
+   "ofo_version": "2021",
+   "name": "Medical Scientist",
+   "major_group": "Professionals",
+   "qualification": "Master's Degree (NQF Level 9)",
+   "nqf": 9,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "213201",
+   "ofo_version": "2021",
+   "name": "Agriculture Consultant",
+   "major_group": "Professionals",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "213202",
+   "ofo_version": "2021",
+   "name": "Agricultural Scientist",
+   "major_group": "Professionals",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "213204",
+   "ofo_version": "2021",
+   "name": "Wine Maker",
+   "major_group": "Professionals",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "213205",
+   "ofo_version": "2021",
+   "name": "Food and Beverage Scientist",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "213302",
+   "ofo_version": "2021",
+   "name": "Environmental Scientist",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   },
+   "jet": {
+    "workstreams": [
+     "RE",
+     "GH2"
+    ],
+    "relevance": "supporting",
+    "interests": [
+     "analytical",
+     "outdoors"
+    ],
+    "mapping_status": "Indicative, to be confirmed by workstream leads"
+   }
+  },
+  {
+   "ofo_code": "213306",
+   "ofo_version": "2021",
+   "name": "Water Quality Analyst",
+   "major_group": "Professionals",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "214101",
+   "ofo_version": "2021",
+   "name": "Industrial Engineer",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "214102",
+   "ofo_version": "2021",
+   "name": "Industrial Engineering Technologist",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "214104",
+   "ofo_version": "2021",
+   "name": "Production Engineering Technologist",
+   "major_group": "Professionals",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "214201",
+   "ofo_version": "2021",
+   "name": "Civil Engineer",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   },
+   "jet": {
+    "workstreams": [
+     "RE",
+     "MUN"
+    ],
+    "relevance": "supporting",
+    "interests": [
+     "analytical",
+     "outdoors",
+     "planning"
+    ],
+    "mapping_status": "Indicative, to be confirmed by workstream leads"
+   }
+  },
+  {
+   "ofo_code": "214202",
+   "ofo_version": "2021",
+   "name": "Civil Engineering Technologist",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "214301",
+   "ofo_version": "2021",
+   "name": "Environmental Engineer",
+   "major_group": "Professionals",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   },
+   "jet": {
+    "workstreams": [
+     "RE",
+     "GH2"
+    ],
+    "relevance": "supporting",
+    "interests": [
+     "analytical",
+     "chemical"
+    ],
+    "mapping_status": "Indicative, to be confirmed by workstream leads"
+   }
+  },
+  {
+   "ofo_code": "214302",
+   "ofo_version": "2021",
+   "name": "Environmental Impact and Restoration Analyst",
+   "major_group": "Professionals",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "214401",
+   "ofo_version": "2021",
+   "name": "Mechanical Engineer",
+   "major_group": "Professionals",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   },
+   "jet": {
+    "workstreams": [
+     "NEV",
+     "GH2",
+     "RE"
+    ],
+    "relevance": "supporting",
+    "interests": [
+     "analytical",
+     "mechanical"
+    ],
+    "mapping_status": "Indicative, to be confirmed by workstream leads"
+   }
+  },
+  {
+   "ofo_code": "214403",
+   "ofo_version": "2021",
+   "name": "Aeronautical Engineer",
+   "major_group": "Professionals",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "214406",
+   "ofo_version": "2021",
+   "name": "Marine Engineering Technologist",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "214501",
+   "ofo_version": "2021",
+   "name": "Chemical Engineer",
+   "major_group": "Professionals",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   },
+   "jet": {
+    "workstreams": [
+     "GH2"
+    ],
+    "relevance": "core",
+    "interests": [
+     "analytical",
+     "chemical"
+    ],
+    "mapping_status": "Indicative, to be confirmed by workstream leads"
+   }
+  },
+  {
+   "ofo_code": "214601",
+   "ofo_version": "2021",
+   "name": "Mining Engineer",
+   "major_group": "Professionals",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "214603",
+   "ofo_version": "2021",
+   "name": "Metallurgical Engineer",
+   "major_group": "Professionals",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "214605",
+   "ofo_version": "2021",
+   "name": "Metallurgist",
+   "major_group": "Professionals",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "214901",
+   "ofo_version": "2021",
+   "name": "Biomedical Engineer",
+   "major_group": "Professionals",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "214902",
+   "ofo_version": "2021",
+   "name": "Explosive Ordnance Engineer",
+   "major_group": "Professionals",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "214904",
+   "ofo_version": "2021",
+   "name": "Quantity Surveyor",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "214905",
+   "ofo_version": "2021",
+   "name": "Agricultural Engineer",
+   "major_group": "Professionals",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "215101",
+   "ofo_version": "2021",
+   "name": "Electrical Engineer",
+   "major_group": "Professionals",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   },
+   "jet": {
+    "workstreams": [
+     "RE",
+     "NEV",
+     "GH2"
+    ],
+    "relevance": "core",
+    "interests": [
+     "analytical",
+     "electrical"
+    ],
+    "mapping_status": "Indicative, to be confirmed by workstream leads"
+   }
+  },
+  {
+   "ofo_code": "215103",
+   "ofo_version": "2021",
+   "name": "Energy Engineer",
+   "major_group": "Professionals",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   },
+   "jet": {
+    "workstreams": [
+     "RE"
+    ],
+    "relevance": "core",
+    "interests": [
+     "analytical",
+     "electrical"
+    ],
+    "mapping_status": "Indicative, to be confirmed by workstream leads"
+   }
+  },
+  {
+   "ofo_code": "215104",
+   "ofo_version": "2021",
+   "name": "Energy Engineering Technologist",
+   "major_group": "Professionals",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   },
+   "jet": {
+    "workstreams": [
+     "RE"
+    ],
+    "relevance": "core",
+    "interests": [
+     "analytical",
+     "electrical"
+    ],
+    "mapping_status": "Indicative, to be confirmed by workstream leads"
+   }
+  },
+  {
+   "ofo_code": "215201",
+   "ofo_version": "2021",
+   "name": "Electronics Engineer",
+   "major_group": "Professionals",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   },
+   "jet": {
+    "workstreams": [
+     "NEV"
+    ],
+    "relevance": "supporting",
+    "interests": [
+     "analytical",
+     "electrical"
+    ],
+    "mapping_status": "Indicative, to be confirmed by workstream leads"
+   }
+  },
+  {
+   "ofo_code": "216101",
+   "ofo_version": "2021",
+   "name": "Architect",
+   "major_group": "Professionals",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "216301",
+   "ofo_version": "2021",
+   "name": "Fashion Designer",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "216302",
+   "ofo_version": "2021",
+   "name": "Industrial Designer",
+   "major_group": "Professionals",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "216401",
+   "ofo_version": "2021",
+   "name": "Urban and Regional Planner",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   },
+   "jet": {
+    "workstreams": [
+     "MUN"
+    ],
+    "relevance": "supporting",
+    "interests": [
+     "planning",
+     "analytical"
+    ],
+    "mapping_status": "Indicative, to be confirmed by workstream leads"
+   }
+  },
+  {
+   "ofo_code": "216402",
+   "ofo_version": "2021",
+   "name": "Transport Analyst",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "216502",
+   "ofo_version": "2021",
+   "name": "Surveyor",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "216601",
+   "ofo_version": "2021",
+   "name": "Digital Artist",
+   "major_group": "Professionals",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "216603",
+   "ofo_version": "2021",
+   "name": "Multimedia Designer",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "216604",
+   "ofo_version": "2021",
+   "name": "Web Designer",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "221101",
+   "ofo_version": "2021",
+   "name": "General Medical Practitioner",
+   "major_group": "Professionals",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "221102",
+   "ofo_version": "2021",
+   "name": "Resident Medical Officer",
+   "major_group": "Professionals",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "221203",
+   "ofo_version": "2021",
+   "name": "Emergency Medicine Specialist",
+   "major_group": "Professionals",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "221207",
+   "ofo_version": "2021",
+   "name": "Pathologist",
+   "major_group": "Professionals",
+   "qualification": "Master's Degree (NQF Level 9)",
+   "nqf": 9,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "221210",
+   "ofo_version": "2021",
+   "name": "General Medicine Specialist Physician",
+   "major_group": "Professionals",
+   "qualification": "Master's Degree (NQF Level 9)",
+   "nqf": 9,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "222101",
+   "ofo_version": "2021",
+   "name": "Clinical Nurse Practitioner",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "222103",
+   "ofo_version": "2021",
+   "name": "Registered Nurse (Child and Family Health)",
+   "major_group": "Professionals",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "222104",
+   "ofo_version": "2021",
+   "name": "Registered Nurse (Community Health)",
+   "major_group": "Professionals",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "222105",
+   "ofo_version": "2021",
+   "name": "Registered Nurse (Critical Care and Emergency)",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "222108",
+   "ofo_version": "2021",
+   "name": "Registered Nurse (Medical)",
+   "major_group": "Professionals",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "222110",
+   "ofo_version": "2021",
+   "name": "Registered Nurse (Mental Health)",
+   "major_group": "Professionals",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "222111",
+   "ofo_version": "2021",
+   "name": "Registered Nurse (Operating theatre)",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "222112",
+   "ofo_version": "2021",
+   "name": "Registered Nurse (Surgical)",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "222114",
+   "ofo_version": "2021",
+   "name": "Nurse Educator",
+   "major_group": "Professionals",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "222116",
+   "ofo_version": "2021",
+   "name": "Nurse Manager",
+   "major_group": "Professionals",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "222117",
+   "ofo_version": "2021",
+   "name": "Midwife",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "225101",
+   "ofo_version": "2021",
+   "name": "Veterinarian",
+   "major_group": "Professionals",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "226201",
+   "ofo_version": "2021",
+   "name": "Hospital Pharmacist",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "226203",
+   "ofo_version": "2021",
+   "name": "Retail Pharmacist",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "226301",
+   "ofo_version": "2021",
+   "name": "Environmental Health Officer",
+   "major_group": "Professionals",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "226302",
+   "ofo_version": "2021",
+   "name": "Safety, Health, Environment and Quality (SHE&Q) Practitioner",
+   "major_group": "Professionals",
+   "qualification": "Higher Certificate (NQF Level 5)",
+   "nqf": 5,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   },
+   "jet": {
+    "workstreams": [
+     "RE",
+     "NEV",
+     "GH2",
+     "MUN"
+    ],
+    "relevance": "supporting",
+    "interests": [
+     "planning",
+     "outdoors"
+    ],
+    "mapping_status": "Indicative, to be confirmed by workstream leads"
+   }
+  },
+  {
+   "ofo_code": "226401",
+   "ofo_version": "2021",
+   "name": "Physiotherapist",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "231101",
+   "ofo_version": "2021",
+   "name": "University Lecturer",
+   "major_group": "Professionals",
+   "qualification": "Master's Degree (NQF Level 9)",
+   "nqf": 9,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "231102",
+   "ofo_version": "2021",
+   "name": "University Tutor",
+   "major_group": "Professionals",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "233107",
+   "ofo_version": "2021",
+   "name": "FET Phase School Teacher (Grades 10-12)",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "233108",
+   "ofo_version": "2021",
+   "name": "Senior Phase School Teacher (Grades 7 - 9)",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "234101",
+   "ofo_version": "2021",
+   "name": "Foundation Phase School Teacher",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "234102",
+   "ofo_version": "2021",
+   "name": "Intermediate Phase School Teacher (Grades 4-6)",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "234201",
+   "ofo_version": "2021",
+   "name": "Early Childhood Development Practitioner",
+   "major_group": "Professionals",
+   "qualification": "Higher Certificate (NQF Level 5)",
+   "nqf": 5,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "235101",
+   "ofo_version": "2021",
+   "name": "Education or Training Advisor",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "235102",
+   "ofo_version": "2021",
+   "name": "Education or Training Reviewer",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "235601",
+   "ofo_version": "2021",
+   "name": "ICT Trainer",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "235904",
+   "ofo_version": "2021",
+   "name": "Examination Supervisor",
+   "major_group": "Professionals",
+   "qualification": "Higher Certificate (NQF Level 5)",
+   "nqf": 5,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "241101",
+   "ofo_version": "2021",
+   "name": "General Accountant",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "241102",
+   "ofo_version": "2021",
+   "name": "Management Accountant",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "241103",
+   "ofo_version": "2021",
+   "name": "Tax Professional",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "241104",
+   "ofo_version": "2021",
+   "name": "External Auditor",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "241107",
+   "ofo_version": "2021",
+   "name": "Financial Accountant",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "241108",
+   "ofo_version": "2021",
+   "name": "Forensic Accountant",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "241301",
+   "ofo_version": "2021",
+   "name": "Financial Investment Advisor",
+   "major_group": "Professionals",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "242101",
+   "ofo_version": "2021",
+   "name": "Management Consultant",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "242102",
+   "ofo_version": "2021",
+   "name": "Organisation and Methods Analyst",
+   "major_group": "Professionals",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "242103",
+   "ofo_version": "2021",
+   "name": "Business Development Officer",
+   "major_group": "Professionals",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "242202",
+   "ofo_version": "2021",
+   "name": "Policy Analyst",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   },
+   "jet": {
+    "workstreams": [
+     "MUN"
+    ],
+    "relevance": "supporting",
+    "interests": [
+     "planning",
+     "analytical"
+    ],
+    "mapping_status": "Indicative, to be confirmed by workstream leads"
+   }
+  },
+  {
+   "ofo_code": "242207",
+   "ofo_version": "2021",
+   "name": "Compliance Officer",
+   "major_group": "Professionals",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "242208",
+   "ofo_version": "2021",
+   "name": "Organisational Risk Manager",
+   "major_group": "Professionals",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "242210",
+   "ofo_version": "2021",
+   "name": "Business Administrator",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "242211",
+   "ofo_version": "2021",
+   "name": "Internal Auditor",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "242215",
+   "ofo_version": "2021",
+   "name": "Fraud Examiner",
+   "major_group": "Professionals",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "242302",
+   "ofo_version": "2021",
+   "name": "Skills Development Practitioner",
+   "major_group": "Professionals",
+   "qualification": "Higher Certificate (NQF Level 5)",
+   "nqf": 5,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   },
+   "jet": {
+    "workstreams": [
+     "RE",
+     "NEV",
+     "GH2",
+     "MUN"
+    ],
+    "relevance": "supporting",
+    "interests": [
+     "people",
+     "planning"
+    ],
+    "mapping_status": "Indicative, to be confirmed by workstream leads"
+   }
+  },
+  {
+   "ofo_code": "242303",
+   "ofo_version": "2021",
+   "name": "Human Resource Advisor",
+   "major_group": "Professionals",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "242307",
+   "ofo_version": "2021",
+   "name": "Recreation Officer",
+   "major_group": "Professionals",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "242401",
+   "ofo_version": "2021",
+   "name": "Training and Development Professional",
+   "major_group": "Professionals",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "242402",
+   "ofo_version": "2021",
+   "name": "Occupational Instructor",
+   "major_group": "Professionals",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "242403",
+   "ofo_version": "2021",
+   "name": "Assessment Practitioner",
+   "major_group": "Professionals",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "243103",
+   "ofo_version": "2021",
+   "name": "Marketing Practitioner",
+   "major_group": "Professionals",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "243201",
+   "ofo_version": "2021",
+   "name": "Communication Coordinator",
+   "major_group": "Professionals",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "243301",
+   "ofo_version": "2021",
+   "name": "Industrial Products Sales Representative",
+   "major_group": "Professionals",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "251101",
+   "ofo_version": "2021",
+   "name": "ICT Systems Analyst",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "251102",
+   "ofo_version": "2021",
+   "name": "Data Scientist",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "251201",
+   "ofo_version": "2021",
+   "name": "Software Developer",
+   "major_group": "Professionals",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "251202",
+   "ofo_version": "2021",
+   "name": "Programmer Analyst",
+   "major_group": "Professionals",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "251203",
+   "ofo_version": "2021",
+   "name": "Developer Programmer",
+   "major_group": "Professionals",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "251302",
+   "ofo_version": "2021",
+   "name": "Web Developer",
+   "major_group": "Professionals",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "252101",
+   "ofo_version": "2021",
+   "name": "Database Designer and Administrator",
+   "major_group": "Professionals",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "252201",
+   "ofo_version": "2021",
+   "name": "Systems Administrator",
+   "major_group": "Professionals",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "252301",
+   "ofo_version": "2021",
+   "name": "Computer Network and Systems Engineer",
+   "major_group": "Professionals",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "252901",
+   "ofo_version": "2021",
+   "name": "ICT Security Specialist",
+   "major_group": "Professionals",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "252902",
+   "ofo_version": "2021",
+   "name": "Technical ICT Support Services Manager",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "261101",
+   "ofo_version": "2021",
+   "name": "Attorney",
+   "major_group": "Professionals",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "261107",
+   "ofo_version": "2021",
+   "name": "Legal Manager",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "261901",
+   "ofo_version": "2021",
+   "name": "Adjudicator",
+   "major_group": "Professionals",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "262201",
+   "ofo_version": "2021",
+   "name": "Librarian",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "262202",
+   "ofo_version": "2021",
+   "name": "Information Services Manager",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "263101",
+   "ofo_version": "2021",
+   "name": "Economist",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "263206",
+   "ofo_version": "2021",
+   "name": "Heritage Consultant",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "263401",
+   "ofo_version": "2021",
+   "name": "Clinical Psychologist",
+   "major_group": "Professionals",
+   "qualification": "Master's Degree (NQF Level 9)",
+   "nqf": 9,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "263501",
+   "ofo_version": "2021",
+   "name": "Social Counselling Worker",
+   "major_group": "Professionals",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "263507",
+   "ofo_version": "2021",
+   "name": "Adoption Social Worker",
+   "major_group": "Professionals",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "264102",
+   "ofo_version": "2021",
+   "name": "Book or Script Editor",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "264103",
+   "ofo_version": "2021",
+   "name": "Technical Writer",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "264301",
+   "ofo_version": "2021",
+   "name": "Interpreter",
+   "major_group": "Professionals",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "264302",
+   "ofo_version": "2021",
+   "name": "Translator",
+   "major_group": "Professionals",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "264303",
+   "ofo_version": "2021",
+   "name": "Linguist",
+   "major_group": "Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "311101",
+   "ofo_version": "2021",
+   "name": "Chemistry Technician",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   },
+   "jet": {
+    "workstreams": [
+     "GH2"
+    ],
+    "relevance": "supporting",
+    "interests": [
+     "chemical",
+     "analytical",
+     "hands_on"
+    ],
+    "mapping_status": "Indicative, to be confirmed by workstream leads"
+   }
+  },
+  {
+   "ofo_code": "311202",
+   "ofo_version": "2021",
+   "name": "Surveying or Cartographic Technician",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "311217",
+   "ofo_version": "2021",
+   "name": "Water Control Officer",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "311301",
+   "ofo_version": "2021",
+   "name": "Electrical Engineering Technician",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   },
+   "jet": {
+    "workstreams": [
+     "RE",
+     "MUN"
+    ],
+    "relevance": "core",
+    "interests": [
+     "electrical",
+     "hands_on",
+     "analytical"
+    ],
+    "mapping_status": "Indicative, to be confirmed by workstream leads"
+   }
+  },
+  {
+   "ofo_code": "311303",
+   "ofo_version": "2021",
+   "name": "Energy Efficiency Technician",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   },
+   "jet": {
+    "workstreams": [
+     "RE",
+     "MUN"
+    ],
+    "relevance": "core",
+    "interests": [
+     "analytical",
+     "electrical",
+     "planning"
+    ],
+    "mapping_status": "Indicative, to be confirmed by workstream leads"
+   }
+  },
+  {
+   "ofo_code": "311401",
+   "ofo_version": "2021",
+   "name": "Electronic Engineering Technician",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   },
+   "jet": {
+    "workstreams": [
+     "NEV",
+     "RE"
+    ],
+    "relevance": "supporting",
+    "interests": [
+     "electrical",
+     "analytical"
+    ],
+    "mapping_status": "Indicative, to be confirmed by workstream leads"
+   }
+  },
+  {
+   "ofo_code": "311501",
+   "ofo_version": "2021",
+   "name": "Mechanical Engineering Technician",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   },
+   "jet": {
+    "workstreams": [
+     "NEV",
+     "GH2"
+    ],
+    "relevance": "supporting",
+    "interests": [
+     "mechanical",
+     "analytical"
+    ],
+    "mapping_status": "Indicative, to be confirmed by workstream leads"
+   }
+  },
+  {
+   "ofo_code": "311701",
+   "ofo_version": "2021",
+   "name": "Mining Technician",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "311702",
+   "ofo_version": "2021",
+   "name": "Metallurgical or Materials Technician",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "311704",
+   "ofo_version": "2021",
+   "name": "Geophysical Technician",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "311801",
+   "ofo_version": "2021",
+   "name": "Draughtsperson",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "Higher Certificate (NQF Level 5)",
+   "nqf": 5,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "311901",
+   "ofo_version": "2021",
+   "name": "Forensic Technician (Biology, Toxicology)",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "311903",
+   "ofo_version": "2021",
+   "name": "Food and Beverage Technician",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "311904",
+   "ofo_version": "2021",
+   "name": "Manufacturing Technician",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   },
+   "jet": {
+    "workstreams": [
+     "NEV"
+    ],
+    "relevance": "supporting",
+    "interests": [
+     "hands_on",
+     "analytical"
+    ],
+    "mapping_status": "Indicative, to be confirmed by workstream leads"
+   }
+  },
+  {
+   "ofo_code": "312101",
+   "ofo_version": "2021",
+   "name": "Mining Production Supervisor",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "312102",
+   "ofo_version": "2021",
+   "name": "Miner",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "Elementary Certificate (NQF Level 2)",
+   "nqf": 2,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "312103",
+   "ofo_version": "2021",
+   "name": "Engineering Supervisor",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "312201",
+   "ofo_version": "2021",
+   "name": "Production / Operations Supervisor (Manufacturing)",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "312202",
+   "ofo_version": "2021",
+   "name": "Maintenance Planner",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   },
+   "jet": {
+    "workstreams": [
+     "RE",
+     "GH2"
+    ],
+    "relevance": "supporting",
+    "interests": [
+     "planning",
+     "mechanical"
+    ],
+    "mapping_status": "Indicative, to be confirmed by workstream leads"
+   }
+  },
+  {
+   "ofo_code": "313201",
+   "ofo_version": "2021",
+   "name": "Water Plant Operator",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "Intermediate Certificate (NQF Level 3)",
+   "nqf": 3,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "313203",
+   "ofo_version": "2021",
+   "name": "Water Process Controller",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "313501",
+   "ofo_version": "2021",
+   "name": "Metal Manufacturing Process Control Technician",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "Intermediate Certificate (NQF Level 3)",
+   "nqf": 3,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "313901",
+   "ofo_version": "2021",
+   "name": "Integrated Manufacturing Line Process Control Technician",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "315303",
+   "ofo_version": "2021",
+   "name": "Aeroplane Pilot",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "Private/Commercial/Airline Pilot's License (No Equivalent NQF Level)",
+   "nqf": null,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "315304",
+   "ofo_version": "2021",
+   "name": "Flying Instructor",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "Private/Commercial/Airline Pilot's License (No Equivalent NQF Level)",
+   "nqf": null,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "321101",
+   "ofo_version": "2021",
+   "name": "Medical Diagnostic Radiographer",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "Bachelor Honours Degree, Postgraduate Diploma, or Bachelor's Degree (NQF Level 8)",
+   "nqf": 8,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "321104",
+   "ofo_version": "2021",
+   "name": "Sonographer",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "321107",
+   "ofo_version": "2021",
+   "name": "Operating Theatre Technician",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "321201",
+   "ofo_version": "2021",
+   "name": "Medical Technician",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "322101",
+   "ofo_version": "2021",
+   "name": "Enrolled Nurse",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "331201",
+   "ofo_version": "2021",
+   "name": "Credit or Loans Officer",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "Higher Certificate (NQF Level 5)",
+   "nqf": 5,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "331301",
+   "ofo_version": "2021",
+   "name": "Bookkeeper",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "Higher Certificate (NQF Level 5)",
+   "nqf": 5,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "331501",
+   "ofo_version": "2021",
+   "name": "Valuer",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "Higher Certificate (NQF Level 5)",
+   "nqf": 5,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "331503",
+   "ofo_version": "2021",
+   "name": "Insurance Loss Adjuster",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "Higher Certificate (NQF Level 5)",
+   "nqf": 5,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "332101",
+   "ofo_version": "2021",
+   "name": "Insurance Agent",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "Higher Certificate (NQF Level 5)",
+   "nqf": 5,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "332102",
+   "ofo_version": "2021",
+   "name": "Insurance Broker",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "332201",
+   "ofo_version": "2021",
+   "name": "Commercial Sales Representative",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "Higher Certificate (NQF Level 5)",
+   "nqf": 5,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "332204",
+   "ofo_version": "2021",
+   "name": "Commercial Services Sales Agent",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "Intermediate Certificate (NQF Level 3)",
+   "nqf": 3,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "332301",
+   "ofo_version": "2021",
+   "name": "Retail Buyer",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "Higher Certificate (NQF Level 5)",
+   "nqf": 5,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "332302",
+   "ofo_version": "2021",
+   "name": "Purchasing Officer",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "Higher Certificate (NQF Level 5)",
+   "nqf": 5,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "333101",
+   "ofo_version": "2021",
+   "name": "Clearing and Forwarding Agent",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "Higher Certificate (NQF Level 5)",
+   "nqf": 5,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "333201",
+   "ofo_version": "2021",
+   "name": "Events Manager",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "333301",
+   "ofo_version": "2021",
+   "name": "Recruitment Officer",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "333401",
+   "ofo_version": "2021",
+   "name": "Property Manager",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "Bachelor's Degree or Advanced Diploma (NQF Level 7)",
+   "nqf": 7,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "333905",
+   "ofo_version": "2021",
+   "name": "Supply Chain Practitioner",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "334102",
+   "ofo_version": "2021",
+   "name": "Office Administrator",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "334103",
+   "ofo_version": "2021",
+   "name": "Call Centre Team Leader",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "334302",
+   "ofo_version": "2021",
+   "name": "Personal Assistant",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "335402",
+   "ofo_version": "2021",
+   "name": "Import-export Administrator",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "Higher Certificate (NQF Level 5)",
+   "nqf": 5,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "341103",
+   "ofo_version": "2021",
+   "name": "Paralegal",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "341110",
+   "ofo_version": "2021",
+   "name": "Associate Legal Professional",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "342103",
+   "ofo_version": "2021",
+   "name": "Jockey",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "No Formal Qualification Required",
+   "nqf": null,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "342204",
+   "ofo_version": "2021",
+   "name": "Sports Coach or Instructor",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "343201",
+   "ofo_version": "2021",
+   "name": "Interior Designer",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "Higher Certificate (NQF Level 5)",
+   "nqf": 5,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "343401",
+   "ofo_version": "2021",
+   "name": "Chef",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "351302",
+   "ofo_version": "2021",
+   "name": "Geographic Information Systems Technicians",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "Higher Certificate (NQF Level 5)",
+   "nqf": 5,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "352102",
+   "ofo_version": "2021",
+   "name": "Camera Operator (Film, Television or Video)",
+   "major_group": "Technicians and Associate Professionals",
+   "qualification": "Higher Certificate (NQF Level 5)",
+   "nqf": 5,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "411101",
+   "ofo_version": "2021",
+   "name": "General Clerk",
+   "major_group": "Clerical Support Workers",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "412101",
+   "ofo_version": "2021",
+   "name": "Secretary (General)",
+   "major_group": "Clerical Support Workers",
+   "qualification": "No Formal Qualification Required",
+   "nqf": null,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "413201",
+   "ofo_version": "2021",
+   "name": "Data Entry Operator",
+   "major_group": "Clerical Support Workers",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "421401",
+   "ofo_version": "2021",
+   "name": "Debt Collector",
+   "major_group": "Clerical Support Workers",
+   "qualification": "No Formal Qualification Required",
+   "nqf": null,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "422102",
+   "ofo_version": "2021",
+   "name": "Travel Consultant",
+   "major_group": "Clerical Support Workers",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "422203",
+   "ofo_version": "2021",
+   "name": "Contact Centre Real Time Advisor",
+   "major_group": "Clerical Support Workers",
+   "qualification": "Higher Certificate (NQF Level 5)",
+   "nqf": 5,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "422205",
+   "ofo_version": "2021",
+   "name": "Contact Centre Forecast Analyst",
+   "major_group": "Clerical Support Workers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "422206",
+   "ofo_version": "2021",
+   "name": "Call or Contact Centre Agent",
+   "major_group": "Clerical Support Workers",
+   "qualification": "Higher Certificate (NQF Level 5)",
+   "nqf": 5,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "422501",
+   "ofo_version": "2021",
+   "name": "Enquiry Clerk",
+   "major_group": "Clerical Support Workers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "422601",
+   "ofo_version": "2021",
+   "name": "Receptionist (General)",
+   "major_group": "Clerical Support Workers",
+   "qualification": "No Formal Qualification Required",
+   "nqf": null,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "431101",
+   "ofo_version": "2021",
+   "name": "Accounts Clerk",
+   "major_group": "Clerical Support Workers",
+   "qualification": "Higher Certificate (NQF Level 5)",
+   "nqf": 5,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "431102",
+   "ofo_version": "2021",
+   "name": "Cost Clerk",
+   "major_group": "Clerical Support Workers",
+   "qualification": "Elementary Certificate (NQF Level 2)",
+   "nqf": 2,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "431103",
+   "ofo_version": "2021",
+   "name": "Taxation Clerk",
+   "major_group": "Clerical Support Workers",
+   "qualification": "Diploma or Advanced Certificate (NQF Level 6)",
+   "nqf": 6,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "431203",
+   "ofo_version": "2021",
+   "name": "Statistical Clerk",
+   "major_group": "Clerical Support Workers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "431204",
+   "ofo_version": "2021",
+   "name": "Insurance Claims Administrator",
+   "major_group": "Clerical Support Workers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "431301",
+   "ofo_version": "2021",
+   "name": "Payroll Clerk",
+   "major_group": "Clerical Support Workers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "432101",
+   "ofo_version": "2021",
+   "name": "Stock Clerk / Officer",
+   "major_group": "Clerical Support Workers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "432102",
+   "ofo_version": "2021",
+   "name": "Dispatching and Receiving Clerk / Officer",
+   "major_group": "Clerical Support Workers",
+   "qualification": "Intermediate Certificate (NQF Level 3)",
+   "nqf": 3,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "432104",
+   "ofo_version": "2021",
+   "name": "Warehouse Administrator / Clerk",
+   "major_group": "Clerical Support Workers",
+   "qualification": "Intermediate Certificate (NQF Level 3)",
+   "nqf": 3,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "432201",
+   "ofo_version": "2021",
+   "name": "Production Coordinator",
+   "major_group": "Clerical Support Workers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "432301",
+   "ofo_version": "2021",
+   "name": "Transport Clerk",
+   "major_group": "Clerical Support Workers",
+   "qualification": "Intermediate Certificate (NQF Level 3)",
+   "nqf": 3,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "441201",
+   "ofo_version": "2021",
+   "name": "Courier",
+   "major_group": "Clerical Support Workers",
+   "qualification": "General Certificate (NQF Level 1)",
+   "nqf": 1,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "441501",
+   "ofo_version": "2021",
+   "name": "Filing or Registry Clerk",
+   "major_group": "Clerical Support Workers",
+   "qualification": "General Certificate (NQF Level 1)",
+   "nqf": 1,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "441602",
+   "ofo_version": "2021",
+   "name": "Skills Development Administrator",
+   "major_group": "Clerical Support Workers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "441903",
+   "ofo_version": "2021",
+   "name": "Program or Project Administrators",
+   "major_group": "Clerical Support Workers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "511101",
+   "ofo_version": "2021",
+   "name": "Flight Attendant",
+   "major_group": "Service and Sales Workers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "511302",
+   "ofo_version": "2021",
+   "name": "Tour Guide",
+   "major_group": "Service and Sales Workers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "513101",
+   "ofo_version": "2021",
+   "name": "Waiter",
+   "major_group": "Service and Sales Workers",
+   "qualification": "No Formal Qualification Required",
+   "nqf": null,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "514101",
+   "ofo_version": "2021",
+   "name": "Hairdresser",
+   "major_group": "Service and Sales Workers",
+   "qualification": "No Formal Qualification Required",
+   "nqf": null,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "514201",
+   "ofo_version": "2021",
+   "name": "Skin Care Therapist",
+   "major_group": "Service and Sales Workers",
+   "qualification": "No Formal Qualification Required",
+   "nqf": null,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "514204",
+   "ofo_version": "2021",
+   "name": "Nail Technician",
+   "major_group": "Service and Sales Workers",
+   "qualification": "No Formal Qualification Required",
+   "nqf": null,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "515101",
+   "ofo_version": "2021",
+   "name": "Hotel Service Manager",
+   "major_group": "Service and Sales Workers",
+   "qualification": "No Formal Qualification Required",
+   "nqf": null,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "515103",
+   "ofo_version": "2021",
+   "name": "Commercial Housekeeper",
+   "major_group": "Service and Sales Workers",
+   "qualification": "No Formal Qualification Required",
+   "nqf": null,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "522301",
+   "ofo_version": "2021",
+   "name": "Sales Assistant (General)",
+   "major_group": "Service and Sales Workers",
+   "qualification": "Intermediate Certificate (NQF Level 3)",
+   "nqf": 3,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "524903",
+   "ofo_version": "2021",
+   "name": "Sales Clerk / Officer",
+   "major_group": "Service and Sales Workers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "532202",
+   "ofo_version": "2021",
+   "name": "Aged or Disabled Carer",
+   "major_group": "Service and Sales Workers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "532203",
+   "ofo_version": "2021",
+   "name": "Community Health Worker",
+   "major_group": "Service and Sales Workers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "532901",
+   "ofo_version": "2021",
+   "name": "First Aid Attendant",
+   "major_group": "Service and Sales Workers",
+   "qualification": "Higher Certificate (NQF Level 5)",
+   "nqf": 5,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "532904",
+   "ofo_version": "2021",
+   "name": "Personal Care Assistant",
+   "major_group": "Service and Sales Workers",
+   "qualification": "No Formal Qualification Required",
+   "nqf": null,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "541101",
+   "ofo_version": "2021",
+   "name": "Fire Fighter",
+   "major_group": "Service and Sales Workers",
+   "qualification": "Intermediate Certificate (NQF Level 3)",
+   "nqf": 3,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "541201",
+   "ofo_version": "2021",
+   "name": "Traffic Officer",
+   "major_group": "Service and Sales Workers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "541401",
+   "ofo_version": "2021",
+   "name": "Security Officer",
+   "major_group": "Service and Sales Workers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "541501",
+   "ofo_version": "2021",
+   "name": "Intelligence Operator",
+   "major_group": "Service and Sales Workers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "542203",
+   "ofo_version": "2021",
+   "name": "Special Forces Operator",
+   "major_group": "Service and Sales Workers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "611302",
+   "ofo_version": "2021",
+   "name": "Landscape Contractor",
+   "major_group": "Skilled Agricultural, Forestry, Fishery, Craft and Related Trades Workers",
+   "qualification": "No Formal Qualification Required",
+   "nqf": null,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "641201",
+   "ofo_version": "2021",
+   "name": "Bricklayer",
+   "major_group": "Skilled Agricultural, Forestry, Fishery, Craft and Related Trades Workers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "641501",
+   "ofo_version": "2021",
+   "name": "Carpenter and Joiner",
+   "major_group": "Skilled Agricultural, Forestry, Fishery, Craft and Related Trades Workers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "641502",
+   "ofo_version": "2021",
+   "name": "Carpenter",
+   "major_group": "Skilled Agricultural, Forestry, Fishery, Craft and Related Trades Workers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "642601",
+   "ofo_version": "2021",
+   "name": "Plumber",
+   "major_group": "Skilled Agricultural, Forestry, Fishery, Craft and Related Trades Workers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "642602",
+   "ofo_version": "2021",
+   "name": "Solar Installer",
+   "major_group": "Skilled Agricultural, Forestry, Fishery, Craft and Related Trades Workers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   },
+   "jet": {
+    "workstreams": [
+     "RE"
+    ],
+    "relevance": "core",
+    "interests": [
+     "hands_on",
+     "electrical",
+     "outdoors"
+    ],
+    "mapping_status": "Indicative, to be confirmed by workstream leads"
+   }
+  },
+  {
+   "ofo_code": "642607",
+   "ofo_version": "2021",
+   "name": "Pipe Fitter",
+   "major_group": "Skilled Agricultural, Forestry, Fishery, Craft and Related Trades Workers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   },
+   "jet": {
+    "workstreams": [
+     "GH2"
+    ],
+    "relevance": "core",
+    "interests": [
+     "hands_on",
+     "mechanical"
+    ],
+    "mapping_status": "Indicative, to be confirmed by workstream leads"
+   }
+  },
+  {
+   "ofo_code": "643202",
+   "ofo_version": "2021",
+   "name": "Vehicle Painter",
+   "major_group": "Skilled Agricultural, Forestry, Fishery, Craft and Related Trades Workers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "651202",
+   "ofo_version": "2021",
+   "name": "Welder",
+   "major_group": "Skilled Agricultural, Forestry, Fishery, Craft and Related Trades Workers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   },
+   "jet": {
+    "workstreams": [
+     "GH2",
+     "RE",
+     "NEV"
+    ],
+    "relevance": "supporting",
+    "interests": [
+     "hands_on",
+     "mechanical"
+    ],
+    "mapping_status": "Indicative, to be confirmed by workstream leads"
+   }
+  },
+  {
+   "ofo_code": "651302",
+   "ofo_version": "2021",
+   "name": "Boiler Maker",
+   "major_group": "Skilled Agricultural, Forestry, Fishery, Craft and Related Trades Workers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   },
+   "jet": {
+    "workstreams": [
+     "GH2"
+    ],
+    "relevance": "supporting",
+    "interests": [
+     "hands_on",
+     "mechanical"
+    ],
+    "mapping_status": "Indicative, to be confirmed by workstream leads"
+   }
+  },
+  {
+   "ofo_code": "651501",
+   "ofo_version": "2021",
+   "name": "Rigger",
+   "major_group": "Skilled Agricultural, Forestry, Fishery, Craft and Related Trades Workers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "652201",
+   "ofo_version": "2021",
+   "name": "Toolmaker",
+   "major_group": "Skilled Agricultural, Forestry, Fishery, Craft and Related Trades Workers",
+   "qualification": "Higher Certificate (NQF Level 5)",
+   "nqf": 5,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "652204",
+   "ofo_version": "2021",
+   "name": "Patternmaker",
+   "major_group": "Skilled Agricultural, Forestry, Fishery, Craft and Related Trades Workers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "652301",
+   "ofo_version": "2021",
+   "name": "Metal Machinist",
+   "major_group": "Skilled Agricultural, Forestry, Fishery, Craft and Related Trades Workers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "652302",
+   "ofo_version": "2021",
+   "name": "Fitter and Turner",
+   "major_group": "Skilled Agricultural, Forestry, Fishery, Craft and Related Trades Workers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   },
+   "jet": {
+    "workstreams": [
+     "NEV",
+     "GH2"
+    ],
+    "relevance": "supporting",
+    "interests": [
+     "hands_on",
+     "mechanical"
+    ],
+    "mapping_status": "Indicative, to be confirmed by workstream leads"
+   }
+  },
+  {
+   "ofo_code": "653101",
+   "ofo_version": "2021",
+   "name": "Automotive Motor Mechanic",
+   "major_group": "Skilled Agricultural, Forestry, Fishery, Craft and Related Trades Workers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   },
+   "jet": {
+    "workstreams": [
+     "NEV"
+    ],
+    "relevance": "core",
+    "interests": [
+     "hands_on",
+     "mechanical"
+    ],
+    "mapping_status": "Indicative, to be confirmed by workstream leads"
+   }
+  },
+  {
+   "ofo_code": "653109",
+   "ofo_version": "2021",
+   "name": "Automotive Engine Mechanic",
+   "major_group": "Skilled Agricultural, Forestry, Fishery, Craft and Related Trades Workers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   },
+   "jet": {
+    "workstreams": [
+     "NEV"
+    ],
+    "relevance": "supporting",
+    "interests": [
+     "hands_on",
+     "mechanical"
+    ],
+    "mapping_status": "Indicative, to be confirmed by workstream leads"
+   }
+  },
+  {
+   "ofo_code": "653201",
+   "ofo_version": "2021",
+   "name": "Aircraft Maintenance Mechanic",
+   "major_group": "Skilled Agricultural, Forestry, Fishery, Craft and Related Trades Workers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "653303",
+   "ofo_version": "2021",
+   "name": "Mechanical Fitter",
+   "major_group": "Skilled Agricultural, Forestry, Fishery, Craft and Related Trades Workers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   },
+   "jet": {
+    "workstreams": [
+     "GH2",
+     "RE"
+    ],
+    "relevance": "supporting",
+    "interests": [
+     "hands_on",
+     "mechanical"
+    ],
+    "mapping_status": "Indicative, to be confirmed by workstream leads"
+   }
+  },
+  {
+   "ofo_code": "653306",
+   "ofo_version": "2021",
+   "name": "Diesel Mechanic",
+   "major_group": "Skilled Agricultural, Forestry, Fishery, Craft and Related Trades Workers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "653307",
+   "ofo_version": "2021",
+   "name": "Heavy Equipment Mechanic",
+   "major_group": "Skilled Agricultural, Forestry, Fishery, Craft and Related Trades Workers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "661304",
+   "ofo_version": "2021",
+   "name": "Diamond Sorter and Evaluator",
+   "major_group": "Skilled Agricultural, Forestry, Fishery, Craft and Related Trades Workers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "671101",
+   "ofo_version": "2021",
+   "name": "Electrician",
+   "major_group": "Skilled Agricultural, Forestry, Fishery, Craft and Related Trades Workers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   },
+   "jet": {
+    "workstreams": [
+     "RE",
+     "NEV",
+     "GH2",
+     "MUN"
+    ],
+    "relevance": "core",
+    "interests": [
+     "hands_on",
+     "electrical"
+    ],
+    "mapping_status": "Indicative, to be confirmed by workstream leads"
+   }
+  },
+  {
+   "ofo_code": "671102",
+   "ofo_version": "2021",
+   "name": "Electrical Installation Inspector",
+   "major_group": "Skilled Agricultural, Forestry, Fishery, Craft and Related Trades Workers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   },
+   "jet": {
+    "workstreams": [
+     "RE",
+     "MUN"
+    ],
+    "relevance": "supporting",
+    "interests": [
+     "electrical",
+     "planning"
+    ],
+    "mapping_status": "Indicative, to be confirmed by workstream leads"
+   }
+  },
+  {
+   "ofo_code": "671202",
+   "ofo_version": "2021",
+   "name": "Millwright",
+   "major_group": "Skilled Agricultural, Forestry, Fishery, Craft and Related Trades Workers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "671203",
+   "ofo_version": "2021",
+   "name": "Mechatronics Technician",
+   "major_group": "Skilled Agricultural, Forestry, Fishery, Craft and Related Trades Workers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   },
+   "jet": {
+    "workstreams": [
+     "NEV",
+     "GH2"
+    ],
+    "relevance": "supporting",
+    "interests": [
+     "electrical",
+     "mechanical",
+     "hands_on"
+    ],
+    "mapping_status": "Indicative, to be confirmed by workstream leads"
+   }
+  },
+  {
+   "ofo_code": "671208",
+   "ofo_version": "2021",
+   "name": "Transportation Electrician",
+   "major_group": "Skilled Agricultural, Forestry, Fishery, Craft and Related Trades Workers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   },
+   "jet": {
+    "workstreams": [
+     "NEV"
+    ],
+    "relevance": "core",
+    "interests": [
+     "electrical",
+     "hands_on"
+    ],
+    "mapping_status": "Indicative, to be confirmed by workstream leads"
+   }
+  },
+  {
+   "ofo_code": "671301",
+   "ofo_version": "2021",
+   "name": "Electrical Line Mechanic",
+   "major_group": "Skilled Agricultural, Forestry, Fishery, Craft and Related Trades Workers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   },
+   "jet": {
+    "workstreams": [
+     "RE",
+     "MUN"
+    ],
+    "relevance": "core",
+    "interests": [
+     "hands_on",
+     "electrical",
+     "outdoors"
+    ],
+    "mapping_status": "Indicative, to be confirmed by workstream leads"
+   }
+  },
+  {
+   "ofo_code": "672104",
+   "ofo_version": "2021",
+   "name": "Electronic Equipment Mechanician",
+   "major_group": "Skilled Agricultural, Forestry, Fishery, Craft and Related Trades Workers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   },
+   "jet": {
+    "workstreams": [
+     "NEV"
+    ],
+    "relevance": "supporting",
+    "interests": [
+     "electrical",
+     "hands_on"
+    ],
+    "mapping_status": "Indicative, to be confirmed by workstream leads"
+   }
+  },
+  {
+   "ofo_code": "672105",
+   "ofo_version": "2021",
+   "name": "Instrument Mechanician",
+   "major_group": "Skilled Agricultural, Forestry, Fishery, Craft and Related Trades Workers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   },
+   "jet": {
+    "workstreams": [
+     "RE",
+     "GH2"
+    ],
+    "relevance": "supporting",
+    "interests": [
+     "electrical",
+     "hands_on",
+     "chemical"
+    ],
+    "mapping_status": "Indicative, to be confirmed by workstream leads"
+   }
+  },
+  {
+   "ofo_code": "672107",
+   "ofo_version": "2021",
+   "name": "Special Class Electrician",
+   "major_group": "Skilled Agricultural, Forestry, Fishery, Craft and Related Trades Workers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   },
+   "jet": {
+    "workstreams": [
+     "RE"
+    ],
+    "relevance": "supporting",
+    "interests": [
+     "hands_on",
+     "electrical"
+    ],
+    "mapping_status": "Indicative, to be confirmed by workstream leads"
+   }
+  },
+  {
+   "ofo_code": "672205",
+   "ofo_version": "2021",
+   "name": "Telecommunications Technician",
+   "major_group": "Skilled Agricultural, Forestry, Fishery, Craft and Related Trades Workers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "681103",
+   "ofo_version": "2021",
+   "name": "Butcher",
+   "major_group": "Skilled Agricultural, Forestry, Fishery, Craft and Related Trades Workers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "681201",
+   "ofo_version": "2021",
+   "name": "Confectionary Baker",
+   "major_group": "Skilled Agricultural, Forestry, Fishery, Craft and Related Trades Workers",
+   "qualification": "Higher Certificate (NQF Level 5)",
+   "nqf": 5,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "681301",
+   "ofo_version": "2021",
+   "name": "Dairyman",
+   "major_group": "Skilled Agricultural, Forestry, Fishery, Craft and Related Trades Workers",
+   "qualification": "Elementary Certificate (NQF Level 2)",
+   "nqf": 2,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "683101",
+   "ofo_version": "2021",
+   "name": "Tailor",
+   "major_group": "Skilled Agricultural, Forestry, Fishery, Craft and Related Trades Workers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "683401",
+   "ofo_version": "2021",
+   "name": "Upholsterer",
+   "major_group": "Skilled Agricultural, Forestry, Fishery, Craft and Related Trades Workers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "684905",
+   "ofo_version": "2021",
+   "name": "Vehicle Body Builder",
+   "major_group": "Skilled Agricultural, Forestry, Fishery, Craft and Related Trades Workers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "711101",
+   "ofo_version": "2021",
+   "name": "Mining Operator",
+   "major_group": "Plant and Machine Operators and Assemblers",
+   "qualification": "Intermediate Certificate (NQF Level 3)",
+   "nqf": 3,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "711201",
+   "ofo_version": "2021",
+   "name": "Mineral Processing Plant Operator",
+   "major_group": "Plant and Machine Operators and Assemblers",
+   "qualification": "Intermediate Certificate (NQF Level 3)",
+   "nqf": 3,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "711301",
+   "ofo_version": "2021",
+   "name": "Driller",
+   "major_group": "Plant and Machine Operators and Assemblers",
+   "qualification": "Elementary Certificate (NQF Level 2)",
+   "nqf": 2,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "711302",
+   "ofo_version": "2021",
+   "name": "Rock Drill Operator",
+   "major_group": "Plant and Machine Operators and Assemblers",
+   "qualification": "Intermediate Certificate (NQF Level 3)",
+   "nqf": 3,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "712101",
+   "ofo_version": "2021",
+   "name": "Metal Processing Plant Operator",
+   "major_group": "Plant and Machine Operators and Assemblers",
+   "qualification": "General Certificate (NQF Level 1)",
+   "nqf": 1,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "715301",
+   "ofo_version": "2021",
+   "name": "Sewing Machine Operator",
+   "major_group": "Plant and Machine Operators and Assemblers",
+   "qualification": "Elementary Certificate (NQF Level 2)",
+   "nqf": 2,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "715302",
+   "ofo_version": "2021",
+   "name": "Clothing, Textile and Leather Goods Production Operator",
+   "major_group": "Plant and Machine Operators and Assemblers",
+   "qualification": "Elementary Certificate (NQF Level 2)",
+   "nqf": 2,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "716108",
+   "ofo_version": "2021",
+   "name": "Seed Processing Machine Operator",
+   "major_group": "Plant and Machine Operators and Assemblers",
+   "qualification": "No Formal Qualification Required",
+   "nqf": null,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "732202",
+   "ofo_version": "2021",
+   "name": "Taxi Driver",
+   "major_group": "Plant and Machine Operators and Assemblers",
+   "qualification": "No Formal Qualification Required",
+   "nqf": null,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "733101",
+   "ofo_version": "2021",
+   "name": "Bus Driver",
+   "major_group": "Plant and Machine Operators and Assemblers",
+   "qualification": "Professional Driving Permit (No Equivalent NQF Level)",
+   "nqf": null,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "733201",
+   "ofo_version": "2021",
+   "name": "Truck Driver (General)",
+   "major_group": "Plant and Machine Operators and Assemblers",
+   "qualification": "Professional Driving Permit (No Equivalent NQF Level)",
+   "nqf": null,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "733204",
+   "ofo_version": "2021",
+   "name": "Tanker Driver",
+   "major_group": "Plant and Machine Operators and Assemblers",
+   "qualification": "No Formal Qualification Required",
+   "nqf": null,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   },
+   "jet": {
+    "workstreams": [
+     "GH2"
+    ],
+    "relevance": "supporting",
+    "interests": [
+     "outdoors",
+     "hands_on"
+    ],
+    "mapping_status": "Indicative, to be confirmed by workstream leads"
+   }
+  },
+  {
+   "ofo_code": "733210",
+   "ofo_version": "2021",
+   "name": "Road Construction Plant Operator",
+   "major_group": "Plant and Machine Operators and Assemblers",
+   "qualification": "No Formal Qualification Required",
+   "nqf": null,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "733211",
+   "ofo_version": "2021",
+   "name": "Remotely Operated Vehicle (ROV) Pilot",
+   "major_group": "Plant and Machine Operators and Assemblers",
+   "qualification": "No Formal Qualification Required",
+   "nqf": null,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "734101",
+   "ofo_version": "2021",
+   "name": "Agricultural Mobile Plant (Equipment) Operator",
+   "major_group": "Plant and Machine Operators and Assemblers",
+   "qualification": "National Certificate (NQF Level 4)",
+   "nqf": 4,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "734206",
+   "ofo_version": "2021",
+   "name": "Loader Operator",
+   "major_group": "Plant and Machine Operators and Assemblers",
+   "qualification": "No Formal Qualification Required",
+   "nqf": null,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "734210",
+   "ofo_version": "2021",
+   "name": "Scraper Operator",
+   "major_group": "Plant and Machine Operators and Assemblers",
+   "qualification": "No Formal Qualification Required",
+   "nqf": null,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "734301",
+   "ofo_version": "2021",
+   "name": "Crane or Hoist Operator",
+   "major_group": "Plant and Machine Operators and Assemblers",
+   "qualification": "General Certificate (NQF Level 1)",
+   "nqf": 1,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "734402",
+   "ofo_version": "2021",
+   "name": "Forklift Driver",
+   "major_group": "Plant and Machine Operators and Assemblers",
+   "qualification": "No Formal Qualification Required",
+   "nqf": null,
+   "in_oihd_2024": true,
+   "essa_outlier": true,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  },
+  {
+   "ofo_code": "735101",
+   "ofo_version": "2021",
+   "name": "Deck Hand",
+   "major_group": "Plant and Machine Operators and Assemblers",
+   "qualification": "No Formal Qualification Required",
+   "nqf": null,
+   "in_oihd_2024": true,
+   "essa_outlier": false,
+   "source": {
+    "name": "2024 National List of Occupations in High Demand (Government Gazette 50510)",
+    "url": "https://www.gov.za/sites/default/files/gcis_document/202404/50510gen2414.pdf",
+    "published": "2024-04-16"
+   }
+  }
+ ]
+}

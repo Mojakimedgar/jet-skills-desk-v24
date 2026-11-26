@@ -1,0 +1,6 @@
+period,workstream,stage,learners,reporting_organisation,sdz,source_name,source_url,status
+2026-Q3,GH2,training,120,TEST SETA,Northern Cape,ILLUSTRATIVE TEST DATA,,reported
+2026-Q3,GH2,internship,30,TEST SETA,Northern Cape,ILLUSTRATIVE TEST DATA,,reported
+2026-Q3,GH2,employment,12,TEST Provider,Northern Cape,ILLUSTRATIVE TEST DATA,https://example.org/r,verified
+2026-Q3,NEV,training,"1,500",TEST SETA,,ILLUSTRATIVE TEST DATA,,reported
+2026-Q2,NEV,training,900,TEST SETA,,ILLUSTRATIVE TEST DATA,,reported

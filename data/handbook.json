@@ -1,0 +1,231 @@
+{
+ "updated": "2026-11-21",
+ "entries": [
+  {
+   "ofo_code": "642602",
+   "name": "Solar Installer",
+   "workstreams": [
+    "RE"
+   ],
+   "summary": "Plans and installs solar photovoltaic (PV) systems to meet customer needs, making sure installations meet regulatory and quality standards.",
+   "summary_source": "SAQA 120883 purpose statement (paraphrased)",
+   "jet_context": "Solar installation is a front-line skill for the Renewable Energy workstream.",
+   "status": "Draft for workstream-lead review"
+  },
+  {
+   "ofo_code": "671101",
+   "name": "Electrician",
+   "workstreams": [
+    "RE",
+    "NEV",
+    "GH2",
+    "MUN"
+   ],
+   "summary": "Installs, tests, maintains and repairs electrical wiring, equipment and systems in buildings and industry.",
+   "summary_source": "JET Skills Desk draft: for workstream-lead review",
+   "jet_context": "Electricians are needed across solar, charging, hydrogen plant and municipal work, so they appear in all four workstreams.",
+   "status": "Draft for workstream-lead review"
+  },
+  {
+   "ofo_code": "671301",
+   "name": "Electrical Line Mechanic",
+   "workstreams": [
+    "RE",
+    "MUN"
+   ],
+   "summary": "Builds and maintains overhead and underground power lines and related network equipment.",
+   "summary_source": "JET Skills Desk draft: for workstream-lead review",
+   "jet_context": "Grid and transmission capacity supports renewable energy growth, including in Mpumalanga.",
+   "status": "Draft for workstream-lead review"
+  },
+  {
+   "ofo_code": "311303",
+   "name": "Energy Efficiency Technician",
+   "workstreams": [
+    "RE",
+    "MUN"
+   ],
+   "summary": "Assesses how energy is used in buildings and facilities and helps reduce consumption through audits and technical measures.",
+   "summary_source": "QCTO qualification title: Energy Efficiency Technician (Energy Audit Technician)",
+   "jet_context": "Energy efficiency is a cross-cutting transition skill for industry and municipalities.",
+   "status": "Draft for workstream-lead review"
+  },
+  {
+   "ofo_code": "215104",
+   "name": "Energy Engineering Technologist",
+   "workstreams": [
+    "RE"
+   ],
+   "summary": "Applies engineering knowledge at technologist level to design, test and improve energy systems.",
+   "summary_source": "JET Skills Desk draft: for workstream-lead review",
+   "jet_context": "Technologist-level skills link plant, grid and renewable energy projects.",
+   "status": "Draft for workstream-lead review"
+  },
+  {
+   "ofo_code": "215103",
+   "name": "Energy Engineer",
+   "workstreams": [
+    "RE"
+   ],
+   "summary": "Designs and oversees energy systems and projects, including generation, efficiency and use of energy.",
+   "summary_source": "JET Skills Desk draft: for workstream-lead review",
+   "jet_context": "Energy engineers shape renewable energy project design.",
+   "status": "Draft for workstream-lead review"
+  },
+  {
+   "ofo_code": "215101",
+   "name": "Electrical Engineer",
+   "workstreams": [
+    "RE",
+    "NEV",
+    "GH2"
+   ],
+   "summary": "Designs, develops and oversees electrical systems and equipment, from generation and networks to industrial installations.",
+   "summary_source": "JET Skills Desk draft: for workstream-lead review",
+   "jet_context": "A scarce professional skill relevant to renewable energy, EV infrastructure and hydrogen plants. The 2024 list flags a large number of registered unemployed in this occupation, so check local demand.",
+   "status": "Draft for workstream-lead review"
+  },
+  {
+   "ofo_code": "671208",
+   "name": "Transportation Electrician",
+   "workstreams": [
+    "NEV"
+   ],
+   "summary": "Installs, diagnoses and repairs the electrical and electronic systems of vehicles.",
+   "summary_source": "QCTO qualification title: Transportation Electrician (Automotive Electrician)",
+   "jet_context": "The current route into electric-vehicle electrical work while dedicated electromobility qualifications are developed.",
+   "status": "Draft for workstream-lead review"
+  },
+  {
+   "ofo_code": "653101",
+   "name": "Automotive Motor Mechanic",
+   "workstreams": [
+    "NEV"
+   ],
+   "summary": "Services, diagnoses and repairs motor vehicles and their mechanical systems.",
+   "summary_source": "JET Skills Desk draft: for workstream-lead review",
+   "jet_context": "Motor mechanics will need top-up skills as electric and hybrid vehicles enter the fleet.",
+   "status": "Draft for workstream-lead review"
+  },
+  {
+   "ofo_code": "671203",
+   "name": "Mechatronics Technician",
+   "workstreams": [
+    "NEV",
+    "GH2"
+   ],
+   "summary": "Installs, maintains and troubleshoots equipment that combines mechanical, electrical and electronic control systems.",
+   "summary_source": "JET Skills Desk draft: for workstream-lead review",
+   "jet_context": "Mechatronics skills support automated manufacturing and plant systems.",
+   "status": "Draft for workstream-lead review"
+  },
+  {
+   "ofo_code": "672104",
+   "name": "Electronic Equipment Mechanician",
+   "workstreams": [
+    "NEV"
+   ],
+   "summary": "Fits, tests and repairs electronic equipment and control systems.",
+   "summary_source": "JET Skills Desk draft: for workstream-lead review",
+   "jet_context": "Supports electronic systems in vehicles, charging and power equipment.",
+   "status": "Draft for workstream-lead review"
+  },
+  {
+   "ofo_code": "214501",
+   "name": "Chemical Engineer",
+   "workstreams": [
+    "GH2"
+   ],
+   "summary": "Designs and optimises chemical and process plants and the processes that run in them.",
+   "summary_source": "JET Skills Desk draft: for workstream-lead review",
+   "jet_context": "Process and chemical engineering underpins green hydrogen production.",
+   "status": "Draft for workstream-lead review"
+  },
+  {
+   "ofo_code": "642607",
+   "name": "Pipe Fitter",
+   "workstreams": [
+    "GH2"
+   ],
+   "summary": "Fabricates, installs and maintains piping systems for liquids and gases.",
+   "summary_source": "JET Skills Desk draft: for workstream-lead review",
+   "jet_context": "Piping for hydrogen and other gases is central to hydrogen production and storage.",
+   "status": "Draft for workstream-lead review"
+  },
+  {
+   "ofo_code": "672105",
+   "name": "Instrument Mechanician",
+   "workstreams": [
+    "RE",
+    "GH2"
+   ],
+   "summary": "Installs, calibrates and maintains the instruments and control equipment used to measure and control industrial processes.",
+   "summary_source": "JET Skills Desk draft: for workstream-lead review",
+   "jet_context": "Instrumentation and control skills support hydrogen plants and renewable energy facilities.",
+   "status": "Draft for workstream-lead review"
+  },
+  {
+   "ofo_code": "651202",
+   "name": "Welder",
+   "workstreams": [
+    "GH2",
+    "RE",
+    "NEV"
+   ],
+   "summary": "Joins metal parts and structures using welding processes.",
+   "summary_source": "JET Skills Desk draft: for workstream-lead review",
+   "jet_context": "Welding is needed in plant construction, structures and equipment manufacturing.",
+   "status": "Draft for workstream-lead review"
+  },
+  {
+   "ofo_code": "311101",
+   "name": "Chemistry Technician",
+   "workstreams": [
+    "GH2"
+   ],
+   "summary": "Carries out laboratory and process testing to support chemical and related work.",
+   "summary_source": "JET Skills Desk draft: for workstream-lead review",
+   "jet_context": "Supports quality and process monitoring in chemical and hydrogen operations.",
+   "status": "Draft for workstream-lead review"
+  },
+  {
+   "ofo_code": "733204",
+   "name": "Tanker Driver",
+   "workstreams": [
+    "GH2"
+   ],
+   "summary": "Drives tankers that transport liquid or gas products by road.",
+   "summary_source": "JET Skills Desk draft: for workstream-lead review",
+   "jet_context": "Hydrogen fuel transporters have been reported as already in short supply.",
+   "status": "Draft for workstream-lead review"
+  },
+  {
+   "ofo_code": "226302",
+   "name": "Safety, Health, Environment and Quality (SHE&Q) Practitioner",
+   "workstreams": [
+    "RE",
+    "NEV",
+    "GH2",
+    "MUN"
+   ],
+   "summary": "Promotes and monitors safe, healthy and environmentally sound practices in the workplace.",
+   "summary_source": "JET Skills Desk draft: for workstream-lead review",
+   "jet_context": "Safety is critical on solar, grid, battery, hydrogen and vehicle-technology sites.",
+   "status": "Draft for workstream-lead review"
+  },
+  {
+   "ofo_code": "242302",
+   "name": "Skills Development Practitioner",
+   "workstreams": [
+    "RE",
+    "NEV",
+    "GH2",
+    "MUN"
+   ],
+   "summary": "Plans and coordinates skills development in an organisation, including workplace skills plans and training.",
+   "summary_source": "JET Skills Desk draft: for workstream-lead review",
+   "jet_context": "Connects employers with the skills system, which is the Desk's coordination role.",
+   "status": "Draft for workstream-lead review"
+  }
+ ]
+}

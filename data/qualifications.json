@@ -1,0 +1,316 @@
+{
+ "updated": "2026-11-21",
+ "note": "Every entry carries its source. Statuses reflect what the cited source says; always confirm registration and accredited providers with SAQA, the QCTO or the relevant SETA before enrolling.",
+ "saqa_ids": [
+  "120883",
+  "99447",
+  "120863",
+  "94619",
+  "99426",
+  "97388",
+  "117042",
+  "91761"
+ ],
+ "qualifications": [
+  {
+   "id": "solar-pv-standalone-installer",
+   "saqa_id": "120883",
+   "title": "National Occupational Certificate: Solar Photovoltaic Standalone Systems Installer",
+   "type": "Occupational Certificate",
+   "nqf": 4,
+   "credits": 211,
+   "quality_partner": "merSETA",
+   "workstreams": [
+    "RE"
+   ],
+   "status": "registered",
+   "status_note": "Registered on the NQF (Occupational Qualifications Sub-framework). Field: Physical Planning and Construction, Electrical Infrastructure Construction.",
+   "ofo_codes": [
+    "642602"
+   ],
+   "providers": [],
+   "source_name": "SAQA qualification record 120883",
+   "source_url": "https://allqs.saqa.org.za/showQualification.php?id=120883",
+   "verified_on": "2026-11-21"
+  },
+  {
+   "id": "solar-pv-service-technician",
+   "saqa_id": "99447",
+   "title": "Occupational Certificate: Solar Photovoltaic Service Technician",
+   "type": "Occupational Certificate",
+   "nqf": 5,
+   "credits": 344,
+   "quality_partner": "merSETA (Construction)",
+   "workstreams": [
+    "RE"
+   ],
+   "status": "registered",
+   "status_note": "Prepares learners to service solar PV farms and standalone installations. SAQA lists entry as an NQF Level 4 qualification with mathematics.",
+   "ofo_codes": [],
+   "providers": [],
+   "source_name": "SAQA qualification record 99447",
+   "source_url": "https://allqs.saqa.org.za/showQualification.php?id=99447",
+   "verified_on": "2026-11-21"
+  },
+  {
+   "id": "higher-solar-pv-standalone-service-technician",
+   "saqa_id": "120863",
+   "title": "Higher Occupational Certificate: Solar Photovoltaic Standalone Service Technician",
+   "type": "Higher Occupational Certificate",
+   "nqf": 5,
+   "credits": null,
+   "quality_partner": null,
+   "workstreams": [
+    "RE"
+   ],
+   "status": "registered",
+   "status_note": "Credit value and quality partner not shown in the source excerpt; confirm on the SAQA record.",
+   "ofo_codes": [],
+   "providers": [],
+   "source_name": "SAQA qualification record 120863",
+   "source_url": "https://allqs.saqa.org.za/showQualification.php?id=120863",
+   "verified_on": "2026-11-21"
+  },
+  {
+   "id": "hot-water-system-installer-solar",
+   "saqa_id": "94619",
+   "title": "Occupational Certificate: Hot Water System Installer (Solar Water Installer)",
+   "type": "Occupational Certificate",
+   "nqf": null,
+   "credits": null,
+   "quality_partner": "IOPSA (Construction)",
+   "workstreams": [
+    "RE"
+   ],
+   "status": "registered",
+   "status_note": "Installs, tests, repairs and maintains solar water heating systems. NQF level not shown in the source excerpt; confirm on the SAQA record.",
+   "ofo_codes": [],
+   "providers": [],
+   "source_name": "SAQA qualification record 94619",
+   "source_url": "https://allqs.saqa.org.za/showQualification.php?id=94619",
+   "verified_on": "2026-11-21"
+  },
+  {
+   "id": "energy-efficiency-technician-audit",
+   "saqa_id": "99426",
+   "title": "Occupational Certificate: Energy Efficiency Technician (Energy Audit Technician)",
+   "type": "Occupational Certificate",
+   "nqf": 6,
+   "credits": 119,
+   "quality_partner": null,
+   "workstreams": [
+    "RE",
+    "MUN"
+   ],
+   "status": "registered",
+   "status_note": "NQF level and credits as published for comment in the 2016 QCTO gazette; confirm current details on the SAQA record.",
+   "ofo_codes": [
+    "311303"
+   ],
+   "providers": [],
+   "source_name": "SAQA qualification record 99426",
+   "source_url": "https://allqs.saqa.org.za/showQualification.php?id=99426",
+   "verified_on": "2026-11-21"
+  },
+  {
+   "id": "wind-turbine-service-technician",
+   "saqa_id": null,
+   "title": "Occupational Certificate: Wind Turbine Service Technician",
+   "type": "Occupational Certificate",
+   "nqf": 5,
+   "credits": 123,
+   "quality_partner": null,
+   "workstreams": [
+    "RE"
+   ],
+   "status": "check",
+   "status_note": "Published for public comment by the QCTO in 2016. Confirm current registration status on SAQA or the QCTO before relying on it.",
+   "ofo_codes": [],
+   "providers": [],
+   "source_name": "Government Gazette 40034 (1 June 2016)",
+   "source_url": "https://www.gov.za/sites/default/files/gcis_document/201606/40034gon612.pdf",
+   "verified_on": "2026-11-21"
+  },
+  {
+   "id": "transportation-electrician",
+   "saqa_id": "97388",
+   "title": "Occupational Certificate: Transportation Electrician (Automotive Electrician)",
+   "type": "Occupational Certificate",
+   "nqf": 4,
+   "credits": null,
+   "quality_partner": "merSETA",
+   "workstreams": [
+    "NEV"
+   ],
+   "status": "registered",
+   "status_note": "Two SAQA IDs are listed for this qualification (97388 and 117042). Industry bodies note it currently carries two knowledge modules on electric-vehicle technology.",
+   "ofo_codes": [
+    "671208"
+   ],
+   "providers": [],
+   "source_name": "QCTO occupational qualifications list; merSETA directive on pre-2009 qualifications",
+   "source_url": "https://www.merseta.org.za/wp-content/uploads/2024/06/Directive-on-the-Implementation-and-Transittional-Arrangements-for-pre-2009-Qualifications.pdf",
+   "verified_on": "2026-11-21",
+   "also_saqa_ids": [
+    "117042"
+   ]
+  },
+  {
+   "id": "electrician-occupational-certificate",
+   "saqa_id": "91761",
+   "title": "Occupational Certificate: Electrician",
+   "type": "Occupational Certificate",
+   "nqf": 4,
+   "credits": null,
+   "quality_partner": "merSETA",
+   "workstreams": [
+    "RE",
+    "NEV",
+    "GH2",
+    "MUN"
+   ],
+   "status": "registered",
+   "status_note": "NQF 4 is the minimum qualification the 2024 high-demand list associates with this occupation. Confirm credits and details on the SAQA record.",
+   "ofo_codes": [
+    "671101"
+   ],
+   "providers": [],
+   "source_name": "merSETA directive on pre-2009 qualifications; 2024 OIHD gazette",
+   "source_url": "https://www.merseta.org.za/wp-content/uploads/2024/06/Directive-on-the-Implementation-and-Transittional-Arrangements-for-pre-2009-Qualifications.pdf",
+   "verified_on": "2026-11-21"
+  },
+  {
+   "id": "electromobility-service-assistant",
+   "saqa_id": null,
+   "title": "Electro Mobility Service Assistant Occupational Skills Programme",
+   "type": "Occupational Skills Programme",
+   "nqf": null,
+   "credits": null,
+   "quality_partner": "merSETA",
+   "workstreams": [
+    "NEV"
+   ],
+   "status": "approved",
+   "status_note": "Approved by the QCTO, as reported by the Retail Motor Industry Organisation in September 2026. Publication on the QCTO website awaits assessment standards and other components.",
+   "ofo_codes": [],
+   "providers": [],
+   "source_name": "FA News: RMI welcomes progress on SA's electro-mobility skills pathway",
+   "source_url": "https://www.fanews.co.za/article/careers-education-learnerships/42/general/1196/rmi-welcomes-progress-on-sa-s-electro-mobility-skills-pathway/44684",
+   "verified_on": "2026-11-21"
+  },
+  {
+   "id": "electromobility-hybrid-vehicle-technician",
+   "saqa_id": null,
+   "title": "Electro Mobility Hybrid Vehicle Technician Occupational Skills Programme",
+   "type": "Occupational Skills Programme",
+   "nqf": null,
+   "credits": null,
+   "quality_partner": "merSETA",
+   "workstreams": [
+    "NEV"
+   ],
+   "status": "in_development",
+   "status_note": "merSETA began scoping and profiling on 1 September 2026. Not yet available for enrolment.",
+   "ofo_codes": [],
+   "providers": [],
+   "source_name": "FA News: RMI welcomes progress on SA's electro-mobility skills pathway",
+   "source_url": "https://www.fanews.co.za/article/careers-education-learnerships/42/general/1196/rmi-welcomes-progress-on-sa-s-electro-mobility-skills-pathway/44684",
+   "verified_on": "2026-11-21"
+  },
+  {
+   "id": "electromobility-bev-technician",
+   "saqa_id": null,
+   "title": "Electrically Propelled Vehicle / Battery Electric Vehicle Technician Occupational Skills Programme",
+   "type": "Occupational Skills Programme",
+   "nqf": null,
+   "credits": null,
+   "quality_partner": "merSETA",
+   "workstreams": [
+    "NEV"
+   ],
+   "status": "in_development",
+   "status_note": "merSETA began scoping and profiling on 1 September 2026. Not yet available for enrolment.",
+   "ofo_codes": [],
+   "providers": [],
+   "source_name": "FA News: RMI welcomes progress on SA's electro-mobility skills pathway",
+   "source_url": "https://www.fanews.co.za/article/careers-education-learnerships/42/general/1196/rmi-welcomes-progress-on-sa-s-electro-mobility-skills-pathway/44684",
+   "verified_on": "2026-11-21"
+  },
+  {
+   "id": "green-hydrogen-production",
+   "saqa_id": null,
+   "title": "Green Hydrogen Production (skills programme)",
+   "type": "Occupational Skills Programme",
+   "nqf": 4,
+   "credits": null,
+   "quality_partner": "CHIETA",
+   "workstreams": [
+    "GH2"
+   ],
+   "status": "approved",
+   "status_note": "Approved by the QCTO in 2025. Skills development providers can now apply for accreditation, so check which providers are currently accredited.",
+   "ofo_codes": [],
+   "providers": [],
+   "source_name": "Engineering News: QCTO approves three green hydrogen skills qualifications programmes",
+   "source_url": "https://www.engineeringnews.co.za/article/qcto-approves-three-green-hydrogen-skills-qualifications-programmes-2025-06-03",
+   "verified_on": "2026-11-21"
+  },
+  {
+   "id": "green-hydrogen-storage-transfer",
+   "saqa_id": null,
+   "title": "Green Hydrogen Storage and Transfer (skills programme)",
+   "type": "Occupational Skills Programme",
+   "nqf": 4,
+   "credits": null,
+   "quality_partner": "CHIETA",
+   "workstreams": [
+    "GH2"
+   ],
+   "status": "approved",
+   "status_note": "Approved by the QCTO in 2025. Skills development providers can now apply for accreditation, so check which providers are currently accredited.",
+   "ofo_codes": [],
+   "providers": [],
+   "source_name": "Engineering News: QCTO approves three green hydrogen skills qualifications programmes",
+   "source_url": "https://www.engineeringnews.co.za/article/qcto-approves-three-green-hydrogen-skills-qualifications-programmes-2025-06-03",
+   "verified_on": "2026-11-21"
+  },
+  {
+   "id": "green-hydrogen-technology",
+   "saqa_id": null,
+   "title": "Green Hydrogen Technology (skills programme)",
+   "type": "Occupational Skills Programme",
+   "nqf": 4,
+   "credits": null,
+   "quality_partner": "CHIETA",
+   "workstreams": [
+    "GH2"
+   ],
+   "status": "approved",
+   "status_note": "Approved by the QCTO in 2025. Skills development providers can now apply for accreditation, so check which providers are currently accredited.",
+   "ofo_codes": [],
+   "providers": [],
+   "source_name": "Engineering News: QCTO approves three green hydrogen skills qualifications programmes",
+   "source_url": "https://www.engineeringnews.co.za/article/qcto-approves-three-green-hydrogen-skills-qualifications-programmes-2025-06-03",
+   "verified_on": "2026-11-21"
+  },
+  {
+   "id": "hydrogen-fuel-cell-system-technician",
+   "saqa_id": null,
+   "title": "Hydrogen Fuel Cell System Technician (proposed skills programme)",
+   "type": "Draft skills programme",
+   "nqf": 5,
+   "credits": null,
+   "quality_partner": "EWSETA",
+   "workstreams": [
+    "GH2"
+   ],
+   "status": "draft",
+   "status_note": "A 2021 draft curriculum prepared for QCTO skills programme approval. Not verified as registered or available.",
+   "ofo_codes": [],
+   "providers": [],
+   "source_name": "EWSETA draft curriculum: Hydrogen Fuel Cell Skills Programme (2021)",
+   "source_url": "https://ewseta.org.za/wp-content/uploads/2021/02/Draft-Curriculum-Hydrogen-Fuel-Cell-Skills-Programme.pdf",
+   "verified_on": "2026-11-21"
+  }
+ ]
+}

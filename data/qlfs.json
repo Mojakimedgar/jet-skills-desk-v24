@@ -1,0 +1,2180 @@
+{
+ "updated": "2026-11-21",
+ "source": {
+  "dataset": "Quarterly Labour Force Survey 2026, Quarter 2 (ZAF-STATSSA-QLFS-2026-Q2-V1)",
+  "producer": "Statistics South Africa",
+  "doi": "https://doi.org/10.25828/a0p1-2z26",
+  "catalog_url": "https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/1247",
+  "variable_url": "https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/1247/variable/F1/V75?name=Q42OCCUPATION",
+  "code_list_url": "https://www.statssa.gov.za/?page_id=4528",
+  "workbook": "JET_Priority_Occupations_QLFS_Data_version2.xlsx"
+ },
+ "methodology": [
+  {
+   "item": "Dataset",
+   "definition": "South Africa Quarterly Labour Force Survey (QLFS), Q2 2026"
+  },
+  {
+   "item": "Source",
+   "definition": "Statistics South Africa."
+  },
+  {
+   "item": "Employment status",
+   "definition": "Lfs_Status = 1 Employed; Lfs_Status = 2 Unemployed."
+  },
+  {
+   "item": "Employed occupation",
+   "definition": "Q42OCCUPATION (4-digit QLFS occupation code)."
+  },
+  {
+   "item": "Unemployed occupation",
+   "definition": "Q315PREVOCCUPATION (previous occupation), because unemployed respondents do not have a current occupation."
+  },
+  {
+   "item": "Province",
+   "definition": "Province codes 1–9 correspond to Western Cape, Eastern Cape, Northern Cape, Free State, KwaZulu-Natal, North West, Gauteng, Mpumalanga and Limpopo."
+  },
+  {
+   "item": "Mapping note",
+   "definition": "QLFS occupation categories do not always provide a one-to-one match to every 6-digit OFO priority occupation. Where no exact 4-digit QLFS category exists, the workbook uses a clearly flagged closest/proxy category. These proxy mappings should be reviewed before using them for formal occupational-demand estimates."
+  },
+  {
+   "item": "Unemployment interpretation",
+   "definition": "Unemployment figures represent unemployed people whose previous occupation falls in the selected QLFS occupation category; they should not be interpreted as current vacancies or current occupational employment."
+  }
+ ],
+ "caveats": [
+  "A figure of 0 means no figure is reported for that province in the workbook. The workbook does not say whether it is a true zero or too few survey respondents to estimate, so do not read 0 as 'no workers'.",
+  "Several priority occupations share one QLFS category, so they show identical figures. Do not add occupations together: the same people would be counted more than once.",
+  "Employment is by current occupation. Unemployment is by previous occupation, so it is not a count of vacancies or of people currently seeking one particular job.",
+  "Closest/proxy matches are approximations and, as the workbook notes, should be reviewed before use in formal occupational-demand estimates."
+ ],
+ "provinces": [
+  {
+   "code": "WC",
+   "name": "Western Cape"
+  },
+  {
+   "code": "EC",
+   "name": "Eastern Cape"
+  },
+  {
+   "code": "NC",
+   "name": "Northern Cape"
+  },
+  {
+   "code": "FS",
+   "name": "Free State"
+  },
+  {
+   "code": "KZN",
+   "name": "KwaZulu-Natal"
+  },
+  {
+   "code": "NW",
+   "name": "North West"
+  },
+  {
+   "code": "GP",
+   "name": "Gauteng"
+  },
+  {
+   "code": "MP",
+   "name": "Mpumalanga"
+  },
+  {
+   "code": "LP",
+   "name": "Limpopo"
+  },
+  {
+   "code": "SA",
+   "name": "South Africa"
+  }
+ ],
+ "rows": [
+  {
+   "name": "Electrical Engineer",
+   "qlfs_code": 2143,
+   "qlfs_label": "Electrical engineers",
+   "mapping": "Exact",
+   "mapping_class": "exact",
+   "group_code": "214",
+   "group_label": "Architects, Engineers and Related Professionals",
+   "ofo_code": "215101",
+   "shares_category_with": [
+    "Systems Controller / Electrical Engineer"
+   ],
+   "employed": {
+    "WC": 4239,
+    "EC": 1041,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 1182,
+    "NW": 0,
+    "GP": 0,
+    "MP": 0,
+    "LP": 0,
+    "SA": 6462
+   },
+   "unemployed": {
+    "WC": 0,
+    "EC": 0,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 0,
+    "NW": 0,
+    "GP": 971,
+    "MP": 0,
+    "LP": 0,
+    "SA": 971
+   }
+  },
+  {
+   "name": "Energy Engineer",
+   "qlfs_code": 2149,
+   "qlfs_label": "Architects, engineers and related professionals not elsewhere classified; Industrial/production engineers",
+   "mapping": "Closest/proxy",
+   "mapping_class": "proxy",
+   "group_code": "214",
+   "group_label": "Architects, Engineers and Related Professionals",
+   "ofo_code": "215103",
+   "shares_category_with": [
+    "Production Engineer",
+    "Industrial Engineer",
+    "Materials Engineer"
+   ],
+   "employed": {
+    "WC": 0,
+    "EC": 1161,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 875,
+    "NW": 0,
+    "GP": 917,
+    "MP": 0,
+    "LP": 0,
+    "SA": 2953
+   },
+   "unemployed": {
+    "WC": 0,
+    "EC": 0,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 1198,
+    "NW": 0,
+    "GP": 1521,
+    "MP": 0,
+    "LP": 0,
+    "SA": 2719
+   }
+  },
+  {
+   "name": "Mechanical Engineer",
+   "qlfs_code": 2145,
+   "qlfs_label": "Mechanical engineers",
+   "mapping": "Exact",
+   "mapping_class": "exact",
+   "group_code": "214",
+   "group_label": "Architects, Engineers and Related Professionals",
+   "ofo_code": "214401",
+   "shares_category_with": [],
+   "employed": {
+    "WC": 1837,
+    "EC": 0,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 1420,
+    "NW": 0,
+    "GP": 2442,
+    "MP": 1071,
+    "LP": 0,
+    "SA": 6770
+   },
+   "unemployed": {
+    "WC": 0,
+    "EC": 0,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 0,
+    "NW": 0,
+    "GP": 0,
+    "MP": 0,
+    "LP": 0,
+    "SA": 0
+   }
+  },
+  {
+   "name": "Civil Engineer",
+   "qlfs_code": 2142,
+   "qlfs_label": "Civil engineers",
+   "mapping": "Exact",
+   "mapping_class": "exact",
+   "group_code": "214",
+   "group_label": "Architects, Engineers and Related Professionals",
+   "ofo_code": "214201",
+   "shares_category_with": [],
+   "employed": {
+    "WC": 6115,
+    "EC": 335,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 3291,
+    "NW": 0,
+    "GP": 0,
+    "MP": 0,
+    "LP": 0,
+    "SA": 9741
+   },
+   "unemployed": {
+    "WC": 0,
+    "EC": 0,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 0,
+    "NW": 0,
+    "GP": 0,
+    "MP": 0,
+    "LP": 0,
+    "SA": 0
+   }
+  },
+  {
+   "name": "Electrical Engineering Technician",
+   "qlfs_code": 3113,
+   "qlfs_label": "Electrical engineering technicians",
+   "mapping": "Exact",
+   "mapping_class": "exact",
+   "group_code": "311",
+   "group_label": "Natural and Engineering Science Technicians",
+   "ofo_code": "311301",
+   "shares_category_with": [
+    "Power Plant Process Controller"
+   ],
+   "employed": {
+    "WC": 7693,
+    "EC": 3656,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 4152,
+    "NW": 0,
+    "GP": 18184,
+    "MP": 3205,
+    "LP": 2962,
+    "SA": 39852
+   },
+   "unemployed": {
+    "WC": 0,
+    "EC": 1220,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 1600,
+    "NW": 0,
+    "GP": 5996,
+    "MP": 0,
+    "LP": 2049,
+    "SA": 10865
+   }
+  },
+  {
+   "name": "Production Engineer",
+   "qlfs_code": 2149,
+   "qlfs_label": "Architects, engineers and related professionals not elsewhere classified; Industrial/production engineers",
+   "mapping": "Exact/embedded",
+   "mapping_class": "exact",
+   "group_code": "214",
+   "group_label": "Architects, Engineers and Related Professionals",
+   "ofo_code": null,
+   "shares_category_with": [
+    "Energy Engineer",
+    "Industrial Engineer",
+    "Materials Engineer"
+   ],
+   "employed": {
+    "WC": 0,
+    "EC": 1161,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 875,
+    "NW": 0,
+    "GP": 917,
+    "MP": 0,
+    "LP": 0,
+    "SA": 2953
+   },
+   "unemployed": {
+    "WC": 0,
+    "EC": 0,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 1198,
+    "NW": 0,
+    "GP": 1521,
+    "MP": 0,
+    "LP": 0,
+    "SA": 2719
+   }
+  },
+  {
+   "name": "Civil Engineering Technologist",
+   "qlfs_code": 3112,
+   "qlfs_label": "Civil engineering technicians",
+   "mapping": "Closest/proxy",
+   "mapping_class": "proxy",
+   "group_code": "311",
+   "group_label": "Natural and Engineering Science Technicians",
+   "ofo_code": "214202",
+   "shares_category_with": [],
+   "employed": {
+    "WC": 803,
+    "EC": 800,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 0,
+    "NW": 0,
+    "GP": 10626,
+    "MP": 0,
+    "LP": 1400,
+    "SA": 13629
+   },
+   "unemployed": {
+    "WC": 0,
+    "EC": 0,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 0,
+    "NW": 0,
+    "GP": 0,
+    "MP": 629,
+    "LP": 0,
+    "SA": 629
+   }
+  },
+  {
+   "name": "Draughtsperson",
+   "qlfs_code": 3118,
+   "qlfs_label": "Draughtspersons",
+   "mapping": "Exact",
+   "mapping_class": "exact",
+   "group_code": "311",
+   "group_label": "Natural and Engineering Science Technicians",
+   "ofo_code": "311801",
+   "shares_category_with": [],
+   "employed": {
+    "WC": 6475,
+    "EC": 0,
+    "NC": 688,
+    "FS": 1483,
+    "KZN": 0,
+    "NW": 0,
+    "GP": 694,
+    "MP": 0,
+    "LP": 3278,
+    "SA": 12618
+   },
+   "unemployed": {
+    "WC": 0,
+    "EC": 0,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 0,
+    "NW": 0,
+    "GP": 0,
+    "MP": 0,
+    "LP": 0,
+    "SA": 0
+   }
+  },
+  {
+   "name": "Mechanical Engineering Technician",
+   "qlfs_code": 3115,
+   "qlfs_label": "Mechanical engineering technicians",
+   "mapping": "Exact",
+   "mapping_class": "exact",
+   "group_code": "311",
+   "group_label": "Natural and Engineering Science Technicians",
+   "ofo_code": "311501",
+   "shares_category_with": [],
+   "employed": {
+    "WC": 8125,
+    "EC": 6988,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 4043,
+    "NW": 0,
+    "GP": 8981,
+    "MP": 1635,
+    "LP": 1997,
+    "SA": 31769
+   },
+   "unemployed": {
+    "WC": 0,
+    "EC": 0,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 0,
+    "NW": 0,
+    "GP": 0,
+    "MP": 1476,
+    "LP": 0,
+    "SA": 1476
+   }
+  },
+  {
+   "name": "Electronics Engineer",
+   "qlfs_code": 2144,
+   "qlfs_label": "Electronics and telecommunications engineers",
+   "mapping": "Closest/exact family",
+   "mapping_class": "exact",
+   "group_code": "214",
+   "group_label": "Architects, Engineers and Related Professionals",
+   "ofo_code": "215201",
+   "shares_category_with": [],
+   "employed": {
+    "WC": 801,
+    "EC": 0,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 0,
+    "NW": 0,
+    "GP": 0,
+    "MP": 0,
+    "LP": 0,
+    "SA": 801
+   },
+   "unemployed": {
+    "WC": 0,
+    "EC": 0,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 0,
+    "NW": 0,
+    "GP": 0,
+    "MP": 0,
+    "LP": 0,
+    "SA": 0
+   }
+  },
+  {
+   "name": "Engineering Manager",
+   "qlfs_code": 1222,
+   "qlfs_label": "Production and operations managers/department managers in manufacturing",
+   "mapping": "Closest/proxy",
+   "mapping_class": "proxy",
+   "group_code": "122",
+   "group_label": "Production and Operations Managers/Department Managers",
+   "ofo_code": "132104",
+   "shares_category_with": [],
+   "employed": {
+    "WC": 6272,
+    "EC": 801,
+    "NC": 728,
+    "FS": 0,
+    "KZN": 937,
+    "NW": 0,
+    "GP": 17968,
+    "MP": 0,
+    "LP": 0,
+    "SA": 26706
+   },
+   "unemployed": {
+    "WC": 0,
+    "EC": 0,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 0,
+    "NW": 0,
+    "GP": 964,
+    "MP": 0,
+    "LP": 0,
+    "SA": 964
+   }
+  },
+  {
+   "name": "Power Generation Operations Manager",
+   "qlfs_code": 1229,
+   "qlfs_label": "Production and operations managers/department managers not elsewhere classified",
+   "mapping": "Closest/proxy; manager title not separately represented",
+   "mapping_class": "proxy",
+   "group_code": "122",
+   "group_label": "Production and Operations Managers/Department Managers",
+   "ofo_code": null,
+   "shares_category_with": [
+    "Programme / Project Manager",
+    "Quality Systems Manager",
+    "Physical Asset Manager"
+   ],
+   "employed": {
+    "WC": 5760,
+    "EC": 50,
+    "NC": 0,
+    "FS": 703,
+    "KZN": 2955,
+    "NW": 1679,
+    "GP": 15882,
+    "MP": 3953,
+    "LP": 2748,
+    "SA": 33730
+   },
+   "unemployed": {
+    "WC": 0,
+    "EC": 0,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 0,
+    "NW": 0,
+    "GP": 0,
+    "MP": 0,
+    "LP": 0,
+    "SA": 0
+   }
+  },
+  {
+   "name": "Welder",
+   "qlfs_code": 7212,
+   "qlfs_label": "Welders and flamecutters",
+   "mapping": "Exact",
+   "mapping_class": "exact",
+   "group_code": "721",
+   "group_label": "Metal Moulders, Welders, Sheet-Metal Workers, Structural Metal Preparers and Related Trades Workers",
+   "ofo_code": "651202",
+   "shares_category_with": [],
+   "employed": {
+    "WC": 20776,
+    "EC": 8775,
+    "NC": 2627,
+    "FS": 9958,
+    "KZN": 14256,
+    "NW": 8301,
+    "GP": 24702,
+    "MP": 9349,
+    "LP": 14297,
+    "SA": 113041
+   },
+   "unemployed": {
+    "WC": 2133,
+    "EC": 1856,
+    "NC": 572,
+    "FS": 0,
+    "KZN": 3266,
+    "NW": 1001,
+    "GP": 2744,
+    "MP": 1926,
+    "LP": 3546,
+    "SA": 17044
+   }
+  },
+  {
+   "name": "Electrician",
+   "qlfs_code": 7137,
+   "qlfs_label": "Building and related electricians",
+   "mapping": "Closest/proxy",
+   "mapping_class": "proxy",
+   "group_code": "713",
+   "group_label": "Building Finishers and Related Trades Workers",
+   "ofo_code": "671101",
+   "shares_category_with": [],
+   "employed": {
+    "WC": 19078,
+    "EC": 11127,
+    "NC": 1961,
+    "FS": 5278,
+    "KZN": 21641,
+    "NW": 7253,
+    "GP": 34707,
+    "MP": 10824,
+    "LP": 4852,
+    "SA": 116721
+   },
+   "unemployed": {
+    "WC": 771,
+    "EC": 1787,
+    "NC": 548,
+    "FS": 1641,
+    "KZN": 0,
+    "NW": 0,
+    "GP": 5038,
+    "MP": 2341,
+    "LP": 847,
+    "SA": 12973
+   }
+  },
+  {
+   "name": "Electronic Equipment Mechanician",
+   "qlfs_code": 7243,
+   "qlfs_label": "Electronics mechanics and servicers",
+   "mapping": "Closest/proxy",
+   "mapping_class": "proxy",
+   "group_code": "724",
+   "group_label": "Electrical and Electronic Equipment Mechanics and Fitters",
+   "ofo_code": "672104",
+   "shares_category_with": [],
+   "employed": {
+    "WC": 6408,
+    "EC": 3380,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 3417,
+    "NW": 0,
+    "GP": 13061,
+    "MP": 0,
+    "LP": 863,
+    "SA": 27129
+   },
+   "unemployed": {
+    "WC": 0,
+    "EC": 0,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 0,
+    "NW": 0,
+    "GP": 669,
+    "MP": 0,
+    "LP": 0,
+    "SA": 669
+   }
+  },
+  {
+   "name": "Engineering Production Systems Worker / Machine Operator",
+   "qlfs_code": 8211,
+   "qlfs_label": "Machine-tool operators",
+   "mapping": "Closest/proxy",
+   "mapping_class": "proxy",
+   "group_code": "821",
+   "group_label": "Metal and Mineral-Products Machine Operators",
+   "ofo_code": null,
+   "shares_category_with": [],
+   "employed": {
+    "WC": 3051,
+    "EC": 2979,
+    "NC": 0,
+    "FS": 930,
+    "KZN": 5121,
+    "NW": 3294,
+    "GP": 15463,
+    "MP": 2017,
+    "LP": 713,
+    "SA": 33568
+   },
+   "unemployed": {
+    "WC": 0,
+    "EC": 0,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 2596,
+    "NW": 0,
+    "GP": 2362,
+    "MP": 0,
+    "LP": 0,
+    "SA": 4958
+   }
+  },
+  {
+   "name": "Industrial Machinery Mechanic",
+   "qlfs_code": 7233,
+   "qlfs_label": "Agricultural or industrial machinery mechanics and fitters",
+   "mapping": "Exact family",
+   "mapping_class": "exact",
+   "group_code": "723",
+   "group_label": "Machinery Mechanics and Fitters",
+   "ofo_code": null,
+   "shares_category_with": [
+    "Millwright",
+    "Fitter and Turner",
+    "Mechanical Fitter"
+   ],
+   "employed": {
+    "WC": 16929,
+    "EC": 6940,
+    "NC": 1873,
+    "FS": 4800,
+    "KZN": 6863,
+    "NW": 0,
+    "GP": 24435,
+    "MP": 7506,
+    "LP": 2413,
+    "SA": 71759
+   },
+   "unemployed": {
+    "WC": 0,
+    "EC": 0,
+    "NC": 0,
+    "FS": 1687,
+    "KZN": 0,
+    "NW": 1292,
+    "GP": 0,
+    "MP": 2762,
+    "LP": 890,
+    "SA": 6631
+   }
+  },
+  {
+   "name": "Millwright",
+   "qlfs_code": 7233,
+   "qlfs_label": "Agricultural or industrial machinery mechanics and fitters",
+   "mapping": "Closest/proxy",
+   "mapping_class": "proxy",
+   "group_code": "723",
+   "group_label": "Machinery Mechanics and Fitters",
+   "ofo_code": "671202",
+   "shares_category_with": [
+    "Industrial Machinery Mechanic",
+    "Fitter and Turner",
+    "Mechanical Fitter"
+   ],
+   "employed": {
+    "WC": 16929,
+    "EC": 6940,
+    "NC": 1873,
+    "FS": 4800,
+    "KZN": 6863,
+    "NW": 0,
+    "GP": 24435,
+    "MP": 7506,
+    "LP": 2413,
+    "SA": 71759
+   },
+   "unemployed": {
+    "WC": 0,
+    "EC": 0,
+    "NC": 0,
+    "FS": 1687,
+    "KZN": 0,
+    "NW": 1292,
+    "GP": 0,
+    "MP": 2762,
+    "LP": 890,
+    "SA": 6631
+   }
+  },
+  {
+   "name": "Structural Steel Erector / Steelworker",
+   "qlfs_code": 7214,
+   "qlfs_label": "Structural-metal preparers and erectors",
+   "mapping": "Exact family",
+   "mapping_class": "exact",
+   "group_code": "721",
+   "group_label": "Metal Moulders, Welders, Sheet-Metal Workers, Structural Metal Preparers and Related Trades Workers",
+   "ofo_code": null,
+   "shares_category_with": [],
+   "employed": {
+    "WC": 7653,
+    "EC": 2863,
+    "NC": 0,
+    "FS": 1110,
+    "KZN": 787,
+    "NW": 3080,
+    "GP": 6147,
+    "MP": 4399,
+    "LP": 1648,
+    "SA": 27687
+   },
+   "unemployed": {
+    "WC": 1090,
+    "EC": 4190,
+    "NC": 562,
+    "FS": 0,
+    "KZN": 1383,
+    "NW": 0,
+    "GP": 0,
+    "MP": 3124,
+    "LP": 2442,
+    "SA": 12791
+   }
+  },
+  {
+   "name": "Construction Worker / General Manual Labourer",
+   "qlfs_code": 9313,
+   "qlfs_label": "Building construction labourers",
+   "mapping": "Closest/proxy",
+   "mapping_class": "proxy",
+   "group_code": "931",
+   "group_label": "Mining and Construction Labourers",
+   "ofo_code": null,
+   "shares_category_with": [],
+   "employed": {
+    "WC": 39178,
+    "EC": 11371,
+    "NC": 2734,
+    "FS": 7666,
+    "KZN": 20836,
+    "NW": 4951,
+    "GP": 46443,
+    "MP": 21574,
+    "LP": 10835,
+    "SA": 165588
+   },
+   "unemployed": {
+    "WC": 4094,
+    "EC": 13808,
+    "NC": 0,
+    "FS": 2684,
+    "KZN": 5428,
+    "NW": 0,
+    "GP": 16190,
+    "MP": 8974,
+    "LP": 5688,
+    "SA": 56866
+   }
+  },
+  {
+   "name": "Fitter and Turner",
+   "qlfs_code": 7233,
+   "qlfs_label": "Agricultural or industrial machinery mechanics and fitters",
+   "mapping": "Closest/proxy",
+   "mapping_class": "proxy",
+   "group_code": "723",
+   "group_label": "Machinery Mechanics and Fitters",
+   "ofo_code": "652302",
+   "shares_category_with": [
+    "Industrial Machinery Mechanic",
+    "Millwright",
+    "Mechanical Fitter"
+   ],
+   "employed": {
+    "WC": 16929,
+    "EC": 6940,
+    "NC": 1873,
+    "FS": 4800,
+    "KZN": 6863,
+    "NW": 0,
+    "GP": 24435,
+    "MP": 7506,
+    "LP": 2413,
+    "SA": 71759
+   },
+   "unemployed": {
+    "WC": 0,
+    "EC": 0,
+    "NC": 0,
+    "FS": 1687,
+    "KZN": 0,
+    "NW": 1292,
+    "GP": 0,
+    "MP": 2762,
+    "LP": 890,
+    "SA": 6631
+   }
+  },
+  {
+   "name": "Mechanical Fitter",
+   "qlfs_code": 7233,
+   "qlfs_label": "Agricultural or industrial machinery mechanics and fitters",
+   "mapping": "Closest/proxy",
+   "mapping_class": "proxy",
+   "group_code": "723",
+   "group_label": "Machinery Mechanics and Fitters",
+   "ofo_code": "653303",
+   "shares_category_with": [
+    "Industrial Machinery Mechanic",
+    "Millwright",
+    "Fitter and Turner"
+   ],
+   "employed": {
+    "WC": 16929,
+    "EC": 6940,
+    "NC": 1873,
+    "FS": 4800,
+    "KZN": 6863,
+    "NW": 0,
+    "GP": 24435,
+    "MP": 7506,
+    "LP": 2413,
+    "SA": 71759
+   },
+   "unemployed": {
+    "WC": 0,
+    "EC": 0,
+    "NC": 0,
+    "FS": 1687,
+    "KZN": 0,
+    "NW": 1292,
+    "GP": 0,
+    "MP": 2762,
+    "LP": 890,
+    "SA": 6631
+   }
+  },
+  {
+   "name": "Instrument Mechanician / Process Controller",
+   "qlfs_code": 3119,
+   "qlfs_label": "Physical and engineering science technicians not elsewhere classified, Technicians, physical and engeneering science, Assistants, technical, engineering, not elsewhere classified",
+   "mapping": "Closest/proxy",
+   "mapping_class": "proxy",
+   "group_code": "311",
+   "group_label": "Natural and Engineering Science Technicians",
+   "ofo_code": null,
+   "shares_category_with": [
+    "Energy Auditor (Officer)",
+    "Manufacturing Technician",
+    "Environmental Engineering Technician"
+   ],
+   "employed": {
+    "WC": 0,
+    "EC": 2098,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 2954,
+    "NW": 1642,
+    "GP": 1766,
+    "MP": 0,
+    "LP": 0,
+    "SA": 8460
+   },
+   "unemployed": {
+    "WC": 0,
+    "EC": 0,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 0,
+    "NW": 0,
+    "GP": 0,
+    "MP": 0,
+    "LP": 0,
+    "SA": 0
+   }
+  },
+  {
+   "name": "Power Plant Process Controller",
+   "qlfs_code": 3113,
+   "qlfs_label": "Electrical engineering technicians, Technicians, engineering, electrical, Assistants, technical, electrical engineering",
+   "mapping": "Closest/proxy",
+   "mapping_class": "proxy",
+   "group_code": "311",
+   "group_label": "Natural and Engineering Science Technicians",
+   "ofo_code": null,
+   "shares_category_with": [
+    "Electrical Engineering Technician"
+   ],
+   "employed": {
+    "WC": 7693,
+    "EC": 3656,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 4152,
+    "NW": 0,
+    "GP": 18184,
+    "MP": 3205,
+    "LP": 2962,
+    "SA": 39852
+   },
+   "unemployed": {
+    "WC": 0,
+    "EC": 0,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 0,
+    "NW": 0,
+    "GP": 0,
+    "MP": 0,
+    "LP": 0,
+    "SA": 0
+   }
+  },
+  {
+   "name": "Programme / Project Manager",
+   "qlfs_code": 1229,
+   "qlfs_label": "Production and operations managers/department managers not elsewhere classified",
+   "mapping": "Closest/proxy",
+   "mapping_class": "proxy",
+   "group_code": "122",
+   "group_label": "Production and Operations Managers/Department Managers",
+   "ofo_code": null,
+   "shares_category_with": [
+    "Power Generation Operations Manager",
+    "Quality Systems Manager",
+    "Physical Asset Manager"
+   ],
+   "employed": {
+    "WC": 5760,
+    "EC": 50,
+    "NC": 0,
+    "FS": 703,
+    "KZN": 2955,
+    "NW": 1679,
+    "GP": 15882,
+    "MP": 3953,
+    "LP": 2748,
+    "SA": 33730
+   },
+   "unemployed": {
+    "WC": 0,
+    "EC": 0,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 0,
+    "NW": 0,
+    "GP": 0,
+    "MP": 0,
+    "LP": 0,
+    "SA": 0
+   }
+  },
+  {
+   "name": "Construction Project Manager",
+   "qlfs_code": 1223,
+   "qlfs_label": "Production and operations managers/department managers in building and construction",
+   "mapping": "Closest/proxy",
+   "mapping_class": "proxy",
+   "group_code": "122",
+   "group_label": "Production and Operations Managers/Department Managers",
+   "ofo_code": "132301",
+   "shares_category_with": [],
+   "employed": {
+    "WC": 4555,
+    "EC": 1496,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 3272,
+    "NW": 0,
+    "GP": 7575,
+    "MP": 1216,
+    "LP": 0,
+    "SA": 18114
+   },
+   "unemployed": {
+    "WC": 2496,
+    "EC": 0,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 0,
+    "NW": 0,
+    "GP": 0,
+    "MP": 0,
+    "LP": 0,
+    "SA": 2496
+   }
+  },
+  {
+   "name": "Logistics Manager / Supply and Distribution Manager",
+   "qlfs_code": 1235,
+   "qlfs_label": "Supply and distribution managers/department managers",
+   "mapping": "Exact family",
+   "mapping_class": "exact",
+   "group_code": "123",
+   "group_label": "Other Managers/Department Managers",
+   "ofo_code": null,
+   "shares_category_with": [],
+   "employed": {
+    "WC": 2508,
+    "EC": 0,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 1037,
+    "NW": 0,
+    "GP": 7969,
+    "MP": 0,
+    "LP": 771,
+    "SA": 12285
+   },
+   "unemployed": {
+    "WC": 666,
+    "EC": 0,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 0,
+    "NW": 0,
+    "GP": 654,
+    "MP": 0,
+    "LP": 0,
+    "SA": 1320
+   }
+  },
+  {
+   "name": "Quality Systems Manager",
+   "qlfs_code": 1229,
+   "qlfs_label": "Production and operations managers/department managers not elsewhere classified",
+   "mapping": "Closest/proxy",
+   "mapping_class": "proxy",
+   "group_code": "122",
+   "group_label": "Production and Operations Managers/Department Managers",
+   "ofo_code": "121908",
+   "shares_category_with": [
+    "Power Generation Operations Manager",
+    "Programme / Project Manager",
+    "Physical Asset Manager"
+   ],
+   "employed": {
+    "WC": 5760,
+    "EC": 50,
+    "NC": 0,
+    "FS": 703,
+    "KZN": 2955,
+    "NW": 1679,
+    "GP": 15882,
+    "MP": 3953,
+    "LP": 2748,
+    "SA": 33730
+   },
+   "unemployed": {
+    "WC": 0,
+    "EC": 0,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 0,
+    "NW": 0,
+    "GP": 0,
+    "MP": 0,
+    "LP": 0,
+    "SA": 0
+   }
+  },
+  {
+   "name": "Project Financier / Financial Investment Adviser",
+   "qlfs_code": 2419,
+   "qlfs_label": "Business professionals not elsewhere classified, Consultants",
+   "mapping": "Closest/proxy",
+   "mapping_class": "proxy",
+   "group_code": "241",
+   "group_label": "Business Professionals",
+   "ofo_code": null,
+   "shares_category_with": [
+    "Policy Analyst",
+    "Advocacy Manager / Change Agent"
+   ],
+   "employed": {
+    "WC": 17290,
+    "EC": 4353,
+    "NC": 455,
+    "FS": 893,
+    "KZN": 1194,
+    "NW": 0,
+    "GP": 40637,
+    "MP": 0,
+    "LP": 0,
+    "SA": 64822
+   },
+   "unemployed": {
+    "WC": 4472,
+    "EC": 1548,
+    "NC": 0,
+    "FS": 1058,
+    "KZN": 2716,
+    "NW": 1326,
+    "GP": 6749,
+    "MP": 0,
+    "LP": 2479,
+    "SA": 20348
+   }
+  },
+  {
+   "name": "Truck Driver (General)",
+   "qlfs_code": 8324,
+   "qlfs_label": "Heavy truck and lorry drivers",
+   "mapping": "Exact family",
+   "mapping_class": "exact",
+   "group_code": "832",
+   "group_label": "Motor Vehicle Drivers and Related Workers",
+   "ofo_code": "733201",
+   "shares_category_with": [],
+   "employed": {
+    "WC": 23697,
+    "EC": 13114,
+    "NC": 7251,
+    "FS": 7278,
+    "KZN": 40212,
+    "NW": 12078,
+    "GP": 58622,
+    "MP": 21791,
+    "LP": 16520,
+    "SA": 200563
+   },
+   "unemployed": {
+    "WC": 6770,
+    "EC": 1496,
+    "NC": 0,
+    "FS": 4286,
+    "KZN": 7207,
+    "NW": 1152,
+    "GP": 15476,
+    "MP": 7740,
+    "LP": 3538,
+    "SA": 47665
+   }
+  },
+  {
+   "name": "Physical Asset Manager",
+   "qlfs_code": 1229,
+   "qlfs_label": "Production and operations managers/department managers not elsewhere classified",
+   "mapping": "Closest/proxy",
+   "mapping_class": "proxy",
+   "group_code": "122",
+   "group_label": "Production and Operations Managers/Department Managers",
+   "ofo_code": "121903",
+   "shares_category_with": [
+    "Power Generation Operations Manager",
+    "Programme / Project Manager",
+    "Quality Systems Manager"
+   ],
+   "employed": {
+    "WC": 5760,
+    "EC": 50,
+    "NC": 0,
+    "FS": 703,
+    "KZN": 2955,
+    "NW": 1679,
+    "GP": 15882,
+    "MP": 3953,
+    "LP": 2748,
+    "SA": 33730
+   },
+   "unemployed": {
+    "WC": 0,
+    "EC": 0,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 0,
+    "NW": 0,
+    "GP": 0,
+    "MP": 0,
+    "LP": 0,
+    "SA": 0
+   }
+  },
+  {
+   "name": "Supply Chain / Logistics Practitioner",
+   "qlfs_code": 3422,
+   "qlfs_label": "Clearing and forwarding agents",
+   "mapping": "Closest/proxy",
+   "mapping_class": "proxy",
+   "group_code": "342",
+   "group_label": "Business Services Agents and Trade Brokers",
+   "ofo_code": null,
+   "shares_category_with": [],
+   "employed": {
+    "WC": 0,
+    "EC": 0,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 0,
+    "NW": 0,
+    "GP": 0,
+    "MP": 908,
+    "LP": 0,
+    "SA": 908
+   },
+   "unemployed": {
+    "WC": 0,
+    "EC": 0,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 0,
+    "NW": 0,
+    "GP": 0,
+    "MP": 0,
+    "LP": 0,
+    "SA": 0
+   }
+  },
+  {
+   "name": "Warehouse Manager",
+   "qlfs_code": 1226,
+   "qlfs_label": "Production and operations managers/department managers in transport, storage and communications",
+   "mapping": "Closest/proxy",
+   "mapping_class": "proxy",
+   "group_code": "122",
+   "group_label": "Production and Operations Managers/Department Managers",
+   "ofo_code": "132404",
+   "shares_category_with": [],
+   "employed": {
+    "WC": 9456,
+    "EC": 1632,
+    "NC": 2215,
+    "FS": 3579,
+    "KZN": 8309,
+    "NW": 1418,
+    "GP": 24922,
+    "MP": 1028,
+    "LP": 2503,
+    "SA": 55062
+   },
+   "unemployed": {
+    "WC": 0,
+    "EC": 788,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 0,
+    "NW": 0,
+    "GP": 804,
+    "MP": 0,
+    "LP": 0,
+    "SA": 1592
+   }
+  },
+  {
+   "name": "Quality Controller",
+   "qlfs_code": 3152,
+   "qlfs_label": "Safety, health and quality inspectors",
+   "mapping": "Closest/proxy",
+   "mapping_class": "proxy",
+   "group_code": "315",
+   "group_label": "Safety and Quality Inspectors",
+   "ofo_code": null,
+   "shares_category_with": [
+    "Safety, Health, Environment & Quality (SHE&Q) Practitioner"
+   ],
+   "employed": {
+    "WC": 28856,
+    "EC": 14114,
+    "NC": 2992,
+    "FS": 3758,
+    "KZN": 12915,
+    "NW": 5259,
+    "GP": 36302,
+    "MP": 12449,
+    "LP": 2353,
+    "SA": 118998
+   },
+   "unemployed": {
+    "WC": 3081,
+    "EC": 2931,
+    "NC": 0,
+    "FS": 2036,
+    "KZN": 2503,
+    "NW": 1271,
+    "GP": 882,
+    "MP": 6220,
+    "LP": 0,
+    "SA": 18924
+   }
+  },
+  {
+   "name": "Environmental Scientist / Environmental Auditor",
+   "qlfs_code": 2212,
+   "qlfs_label": "Biological sciences, Chemical sciences, Medical sciences, Physical sciences and Veterinary sciences",
+   "mapping": "Closest/proxy",
+   "mapping_class": "proxy",
+   "group_code": "221",
+   "group_label": "Life Science Professionals",
+   "ofo_code": null,
+   "shares_category_with": [
+    "Environmental Impact and Restoration Analyst"
+   ],
+   "employed": {
+    "WC": 983,
+    "EC": 0,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 0,
+    "NW": 0,
+    "GP": 2752,
+    "MP": 0,
+    "LP": 0,
+    "SA": 3735
+   },
+   "unemployed": {
+    "WC": 0,
+    "EC": 0,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 0,
+    "NW": 0,
+    "GP": 0,
+    "MP": 0,
+    "LP": 0,
+    "SA": 0
+   }
+  },
+  {
+   "name": "Safety, Health, Environment & Quality (SHE&Q) Practitioner",
+   "qlfs_code": 3152,
+   "qlfs_label": "Safety, health and quality inspectors",
+   "mapping": "Closest/proxy",
+   "mapping_class": "proxy",
+   "group_code": "315",
+   "group_label": "Safety and Quality Inspectors",
+   "ofo_code": null,
+   "shares_category_with": [
+    "Quality Controller"
+   ],
+   "employed": {
+    "WC": 28856,
+    "EC": 14114,
+    "NC": 2992,
+    "FS": 3758,
+    "KZN": 12915,
+    "NW": 5259,
+    "GP": 36302,
+    "MP": 12449,
+    "LP": 2353,
+    "SA": 118998
+   },
+   "unemployed": {
+    "WC": 3081,
+    "EC": 2931,
+    "NC": 0,
+    "FS": 2036,
+    "KZN": 2503,
+    "NW": 1271,
+    "GP": 882,
+    "MP": 6220,
+    "LP": 0,
+    "SA": 18924
+   }
+  },
+  {
+   "name": "Environmental Science Technician",
+   "qlfs_code": 3111,
+   "qlfs_label": "Natural science technicians",
+   "mapping": "Closest/proxy",
+   "mapping_class": "proxy",
+   "group_code": "311",
+   "group_label": "Natural and Engineering Science Technicians",
+   "ofo_code": null,
+   "shares_category_with": [],
+   "employed": {
+    "WC": 8994,
+    "EC": 2009,
+    "NC": 1242,
+    "FS": 403,
+    "KZN": 5515,
+    "NW": 0,
+    "GP": 3657,
+    "MP": 3139,
+    "LP": 0,
+    "SA": 24959
+   },
+   "unemployed": {
+    "WC": 0,
+    "EC": 0,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 0,
+    "NW": 0,
+    "GP": 0,
+    "MP": 0,
+    "LP": 0,
+    "SA": 0
+   }
+  },
+  {
+   "name": "Environmental Impact and Restoration Analyst",
+   "qlfs_code": 2212,
+   "qlfs_label": "Biological sciences, Chemical sciences, Medical sciences, Physical sciences and Veterinary sciences",
+   "mapping": "Closest/proxy",
+   "mapping_class": "proxy",
+   "group_code": "221",
+   "group_label": "Life Science Professionals",
+   "ofo_code": "214302",
+   "shares_category_with": [
+    "Environmental Scientist / Environmental Auditor"
+   ],
+   "employed": {
+    "WC": 983,
+    "EC": 0,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 0,
+    "NW": 0,
+    "GP": 2752,
+    "MP": 0,
+    "LP": 0,
+    "SA": 3735
+   },
+   "unemployed": {
+    "WC": 0,
+    "EC": 0,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 0,
+    "NW": 0,
+    "GP": 0,
+    "MP": 0,
+    "LP": 0,
+    "SA": 0
+   }
+  },
+  {
+   "name": "Energy Auditor (Officer)",
+   "qlfs_code": 3119,
+   "qlfs_label": "Physical and engineering science technicians not elsewhere classified",
+   "mapping": "Closest/proxy",
+   "mapping_class": "proxy",
+   "group_code": "311",
+   "group_label": "Natural and Engineering Science Technicians",
+   "ofo_code": null,
+   "shares_category_with": [
+    "Instrument Mechanician / Process Controller",
+    "Manufacturing Technician",
+    "Environmental Engineering Technician"
+   ],
+   "employed": {
+    "WC": 0,
+    "EC": 2098,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 2954,
+    "NW": 1642,
+    "GP": 1766,
+    "MP": 0,
+    "LP": 0,
+    "SA": 8460
+   },
+   "unemployed": {
+    "WC": 0,
+    "EC": 0,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 0,
+    "NW": 0,
+    "GP": 0,
+    "MP": 0,
+    "LP": 0,
+    "SA": 0
+   }
+  },
+  {
+   "name": "Industrial Engineer",
+   "qlfs_code": 2149,
+   "qlfs_label": "Architects, engineers and related professionals not elsewhere classified; Industrial/production engineers...",
+   "mapping": "Exact/embedded",
+   "mapping_class": "exact",
+   "group_code": "214",
+   "group_label": "Architects, Engineers and Related Professionals",
+   "ofo_code": "214101",
+   "shares_category_with": [
+    "Energy Engineer",
+    "Production Engineer",
+    "Materials Engineer"
+   ],
+   "employed": {
+    "WC": 0,
+    "EC": 1161,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 875,
+    "NW": 0,
+    "GP": 917,
+    "MP": 0,
+    "LP": 0,
+    "SA": 2953
+   },
+   "unemployed": {
+    "WC": 0,
+    "EC": 0,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 1198,
+    "NW": 0,
+    "GP": 1521,
+    "MP": 0,
+    "LP": 0,
+    "SA": 2719
+   }
+  },
+  {
+   "name": "Chemical Engineer",
+   "qlfs_code": 2146,
+   "qlfs_label": "Chemical engineers",
+   "mapping": "Exact",
+   "mapping_class": "exact",
+   "group_code": "214",
+   "group_label": "Architects, Engineers and Related Professionals",
+   "ofo_code": "214501",
+   "shares_category_with": [],
+   "employed": {
+    "WC": 0,
+    "EC": 0,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 0,
+    "NW": 0,
+    "GP": 0,
+    "MP": 0,
+    "LP": 0,
+    "SA": 0
+   },
+   "unemployed": {
+    "WC": 0,
+    "EC": 0,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 0,
+    "NW": 0,
+    "GP": 0,
+    "MP": 0,
+    "LP": 0,
+    "SA": 0
+   }
+  },
+  {
+   "name": "Materials Engineer",
+   "qlfs_code": 2149,
+   "qlfs_label": "Architects, engineers and related professionals not elsewhere classified...",
+   "mapping": "Closest/proxy",
+   "mapping_class": "proxy",
+   "group_code": "214",
+   "group_label": "Architects, Engineers and Related Professionals",
+   "ofo_code": null,
+   "shares_category_with": [
+    "Energy Engineer",
+    "Production Engineer",
+    "Industrial Engineer"
+   ],
+   "employed": {
+    "WC": 0,
+    "EC": 1161,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 875,
+    "NW": 0,
+    "GP": 917,
+    "MP": 0,
+    "LP": 0,
+    "SA": 2953
+   },
+   "unemployed": {
+    "WC": 0,
+    "EC": 0,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 1198,
+    "NW": 0,
+    "GP": 1521,
+    "MP": 0,
+    "LP": 0,
+    "SA": 2719
+   }
+  },
+  {
+   "name": "Metallurgical Engineer",
+   "qlfs_code": 2147,
+   "qlfs_label": "Mining engineers, Metallurgists and related professionals",
+   "mapping": "Exact family",
+   "mapping_class": "exact",
+   "group_code": "214",
+   "group_label": "Architects, Engineers and Related Professionals",
+   "ofo_code": "214603",
+   "shares_category_with": [],
+   "employed": {
+    "WC": 0,
+    "EC": 0,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 0,
+    "NW": 0,
+    "GP": 4378,
+    "MP": 0,
+    "LP": 981,
+    "SA": 5359
+   },
+   "unemployed": {
+    "WC": 0,
+    "EC": 0,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 0,
+    "NW": 0,
+    "GP": 0,
+    "MP": 0,
+    "LP": 0,
+    "SA": 0
+   }
+  },
+  {
+   "name": "Mineral Processing Plant Operator",
+   "qlfs_code": 8112,
+   "qlfs_label": "Mineral ore and stone processing plant operators",
+   "mapping": "Exact family",
+   "mapping_class": "exact",
+   "group_code": "811",
+   "group_label": "Mining and Mineral Processing Plant Operators",
+   "ofo_code": "711201",
+   "shares_category_with": [],
+   "employed": {
+    "WC": 1293,
+    "EC": 0,
+    "NC": 0,
+    "FS": 2630,
+    "KZN": 2300,
+    "NW": 14298,
+    "GP": 730,
+    "MP": 873,
+    "LP": 0,
+    "SA": 22124
+   },
+   "unemployed": {
+    "WC": 0,
+    "EC": 0,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 0,
+    "NW": 0,
+    "GP": 0,
+    "MP": 706,
+    "LP": 0,
+    "SA": 706
+   }
+  },
+  {
+   "name": "Data Scientist / Data Analyst",
+   "qlfs_code": 2131,
+   "qlfs_label": "Computer systems designers and analysts",
+   "mapping": "Closest/proxy",
+   "mapping_class": "proxy",
+   "group_code": "213",
+   "group_label": "Computing Professionals",
+   "ofo_code": null,
+   "shares_category_with": [],
+   "employed": {
+    "WC": 11583,
+    "EC": 4068,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 1719,
+    "NW": 0,
+    "GP": 50598,
+    "MP": 654,
+    "LP": 0,
+    "SA": 68622
+   },
+   "unemployed": {
+    "WC": 0,
+    "EC": 869,
+    "NC": 0,
+    "FS": 848,
+    "KZN": 0,
+    "NW": 0,
+    "GP": 0,
+    "MP": 0,
+    "LP": 0,
+    "SA": 1717
+   }
+  },
+  {
+   "name": "GIS Technician",
+   "qlfs_code": 2139,
+   "qlfs_label": "Computing professionals not elsewhere classified",
+   "mapping": "Closest/proxy",
+   "mapping_class": "proxy",
+   "group_code": "213",
+   "group_label": "Computing Professionals",
+   "ofo_code": null,
+   "shares_category_with": [],
+   "employed": {
+    "WC": 682,
+    "EC": 2434,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 1194,
+    "NW": 0,
+    "GP": 9704,
+    "MP": 0,
+    "LP": 0,
+    "SA": 14014
+   },
+   "unemployed": {
+    "WC": 0,
+    "EC": 0,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 0,
+    "NW": 0,
+    "GP": 0,
+    "MP": 0,
+    "LP": 0,
+    "SA": 0
+   }
+  },
+  {
+   "name": "Software Developer / Engineer",
+   "qlfs_code": 2132,
+   "qlfs_label": "Computer programmers",
+   "mapping": "Closest/proxy",
+   "mapping_class": "proxy",
+   "group_code": "213",
+   "group_label": "Computing Professionals",
+   "ofo_code": null,
+   "shares_category_with": [],
+   "employed": {
+    "WC": 1675,
+    "EC": 0,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 4663,
+    "NW": 0,
+    "GP": 6269,
+    "MP": 0,
+    "LP": 0,
+    "SA": 12607
+   },
+   "unemployed": {
+    "WC": 0,
+    "EC": 0,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 0,
+    "NW": 0,
+    "GP": 1147,
+    "MP": 0,
+    "LP": 0,
+    "SA": 1147
+   }
+  },
+  {
+   "name": "Commodities Trader (Energy Market Trader)",
+   "qlfs_code": 3411,
+   "qlfs_label": "Securities and finance dealers and brokers",
+   "mapping": "Closest/proxy",
+   "mapping_class": "proxy",
+   "group_code": "341",
+   "group_label": "Finance and Sales Associate Professionals",
+   "ofo_code": null,
+   "shares_category_with": [],
+   "employed": {
+    "WC": 9010,
+    "EC": 1960,
+    "NC": 0,
+    "FS": 671,
+    "KZN": 11212,
+    "NW": 3429,
+    "GP": 18281,
+    "MP": 4585,
+    "LP": 1773,
+    "SA": 50921
+   },
+   "unemployed": {
+    "WC": 0,
+    "EC": 2282,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 0,
+    "NW": 0,
+    "GP": 3621,
+    "MP": 0,
+    "LP": 0,
+    "SA": 5903
+   }
+  },
+  {
+   "name": "Systems Controller / Electrical Engineer",
+   "qlfs_code": 2143,
+   "qlfs_label": "Electrical engineers",
+   "mapping": "Closest/proxy",
+   "mapping_class": "proxy",
+   "group_code": "214",
+   "group_label": "Architects, Engineers and Related Professionals",
+   "ofo_code": null,
+   "shares_category_with": [
+    "Electrical Engineer"
+   ],
+   "employed": {
+    "WC": 4239,
+    "EC": 1041,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 1182,
+    "NW": 0,
+    "GP": 0,
+    "MP": 0,
+    "LP": 0,
+    "SA": 6462
+   },
+   "unemployed": {
+    "WC": 0,
+    "EC": 0,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 0,
+    "NW": 0,
+    "GP": 971,
+    "MP": 0,
+    "LP": 0,
+    "SA": 971
+   }
+  },
+  {
+   "name": "Legal Adviser / Attorney",
+   "qlfs_code": 2421,
+   "qlfs_label": "Advocates, attorneys and related occupations",
+   "mapping": "Exact family",
+   "mapping_class": "exact",
+   "group_code": "242",
+   "group_label": "Legal Professionals",
+   "ofo_code": null,
+   "shares_category_with": [],
+   "employed": {
+    "WC": 4628,
+    "EC": 3415,
+    "NC": 1377,
+    "FS": 50,
+    "KZN": 2632,
+    "NW": 0,
+    "GP": 18206,
+    "MP": 0,
+    "LP": 4962,
+    "SA": 35270
+   },
+   "unemployed": {
+    "WC": 0,
+    "EC": 694,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 1149,
+    "NW": 0,
+    "GP": 3716,
+    "MP": 682,
+    "LP": 0,
+    "SA": 6241
+   }
+  },
+  {
+   "name": "Policy Analyst",
+   "qlfs_code": 2419,
+   "qlfs_label": "Business professionals not elsewhere classified, Consultants",
+   "mapping": "Closest/proxy",
+   "mapping_class": "proxy",
+   "group_code": "241",
+   "group_label": "Business Professionals",
+   "ofo_code": "242202",
+   "shares_category_with": [
+    "Project Financier / Financial Investment Adviser",
+    "Advocacy Manager / Change Agent"
+   ],
+   "employed": {
+    "WC": 17290,
+    "EC": 4353,
+    "NC": 455,
+    "FS": 893,
+    "KZN": 1194,
+    "NW": 0,
+    "GP": 40637,
+    "MP": 0,
+    "LP": 0,
+    "SA": 64822
+   },
+   "unemployed": {
+    "WC": 4472,
+    "EC": 1548,
+    "NC": 0,
+    "FS": 1058,
+    "KZN": 2716,
+    "NW": 1326,
+    "GP": 6749,
+    "MP": 0,
+    "LP": 2479,
+    "SA": 20348
+   }
+  },
+  {
+   "name": "Community Development Practitioner",
+   "qlfs_code": 2446,
+   "qlfs_label": "Social work professionals",
+   "mapping": "Closest/proxy",
+   "mapping_class": "proxy",
+   "group_code": "244",
+   "group_label": "Social Science and Related Professionals",
+   "ofo_code": null,
+   "shares_category_with": [],
+   "employed": {
+    "WC": 1993,
+    "EC": 1130,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 5396,
+    "NW": 1670,
+    "GP": 4153,
+    "MP": 769,
+    "LP": 0,
+    "SA": 15111
+   },
+   "unemployed": {
+    "WC": 0,
+    "EC": 846,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 941,
+    "NW": 0,
+    "GP": 0,
+    "MP": 0,
+    "LP": 0,
+    "SA": 1787
+   }
+  },
+  {
+   "name": "Advocacy Manager / Change Agent",
+   "qlfs_code": 2419,
+   "qlfs_label": "Business professionals not elsewhere classified, Consultants",
+   "mapping": "Closest/proxy",
+   "mapping_class": "proxy",
+   "group_code": "241",
+   "group_label": "Business Professionals",
+   "ofo_code": null,
+   "shares_category_with": [
+    "Project Financier / Financial Investment Adviser",
+    "Policy Analyst"
+   ],
+   "employed": {
+    "WC": 17290,
+    "EC": 4353,
+    "NC": 455,
+    "FS": 893,
+    "KZN": 1194,
+    "NW": 0,
+    "GP": 40637,
+    "MP": 0,
+    "LP": 0,
+    "SA": 64822
+   },
+   "unemployed": {
+    "WC": 4472,
+    "EC": 1548,
+    "NC": 0,
+    "FS": 1058,
+    "KZN": 2716,
+    "NW": 1326,
+    "GP": 6749,
+    "MP": 0,
+    "LP": 2479,
+    "SA": 20348
+   }
+  },
+  {
+   "name": "Manufacturing Technician",
+   "qlfs_code": 3119,
+   "qlfs_label": "Physical and engineering science technicians not elsewhere classified",
+   "mapping": "Closest/proxy",
+   "mapping_class": "proxy",
+   "group_code": "311",
+   "group_label": "Natural and Engineering Science Technicians",
+   "ofo_code": "311904",
+   "shares_category_with": [
+    "Instrument Mechanician / Process Controller",
+    "Energy Auditor (Officer)",
+    "Environmental Engineering Technician"
+   ],
+   "employed": {
+    "WC": 0,
+    "EC": 2098,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 2954,
+    "NW": 1642,
+    "GP": 1766,
+    "MP": 0,
+    "LP": 0,
+    "SA": 8460
+   },
+   "unemployed": {
+    "WC": 0,
+    "EC": 0,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 0,
+    "NW": 0,
+    "GP": 0,
+    "MP": 0,
+    "LP": 0,
+    "SA": 0
+   }
+  },
+  {
+   "name": "Environmental Engineering Technician",
+   "qlfs_code": 3119,
+   "qlfs_label": "Physical and engineering science technicians not elsewhere classified",
+   "mapping": "Closest/proxy",
+   "mapping_class": "proxy",
+   "group_code": "311",
+   "group_label": "Natural and Engineering Science Technicians",
+   "ofo_code": null,
+   "shares_category_with": [
+    "Instrument Mechanician / Process Controller",
+    "Energy Auditor (Officer)",
+    "Manufacturing Technician"
+   ],
+   "employed": {
+    "WC": 0,
+    "EC": 2098,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 2954,
+    "NW": 1642,
+    "GP": 1766,
+    "MP": 0,
+    "LP": 0,
+    "SA": 8460
+   },
+   "unemployed": {
+    "WC": 0,
+    "EC": 0,
+    "NC": 0,
+    "FS": 0,
+    "KZN": 0,
+    "NW": 0,
+    "GP": 0,
+    "MP": 0,
+    "LP": 0,
+    "SA": 0
+   }
+  },
+  {
+   "name": "Materials Recycler",
+   "qlfs_code": 9322,
+   "qlfs_label": "Hand-packers and other manufacturing labourers",
+   "mapping": "Closest/proxy",
+   "mapping_class": "proxy",
+   "group_code": "932",
+   "group_label": "Manufacturing Labourers",
+   "ofo_code": null,
+   "shares_category_with": [],
+   "employed": {
+    "WC": 137496,
+    "EC": 53205,
+    "NC": 4987,
+    "FS": 19828,
+    "KZN": 102202,
+    "NW": 21150,
+    "GP": 151576,
+    "MP": 21768,
+    "LP": 54116,
+    "SA": 566328
+   },
+   "unemployed": {
+    "WC": 22042,
+    "EC": 11099,
+    "NC": 519,
+    "FS": 7308,
+    "KZN": 24227,
+    "NW": 8358,
+    "GP": 42220,
+    "MP": 6643,
+    "LP": 13227,
+    "SA": 135643
+   }
+  },
+  {
+   "name": "Materials Recovery Operator (Recycling Plant Operator)",
+   "qlfs_code": 8163,
+   "qlfs_label": "Incinerator, water-treatment and related plant operators",
+   "mapping": "Closest/proxy",
+   "mapping_class": "proxy",
+   "group_code": "816",
+   "group_label": "Power-Production and Related Plant Operators",
+   "ofo_code": null,
+   "shares_category_with": [],
+   "employed": {
+    "WC": 792,
+    "EC": 1383,
+    "NC": 1602,
+    "FS": 0,
+    "KZN": 4053,
+    "NW": 997,
+    "GP": 880,
+    "MP": 4148,
+    "LP": 8198,
+    "SA": 22053
+   },
+   "unemployed": {
+    "WC": 1559,
+    "EC": 0,
+    "NC": 496,
+    "FS": 0,
+    "KZN": 925,
+    "NW": 0,
+    "GP": 0,
+    "MP": 0,
+    "LP": 1404,
+    "SA": 4384
+   }
+  }
+ ]
+}

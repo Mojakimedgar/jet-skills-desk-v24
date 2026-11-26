@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+{% block main %}
+<section id="home" class="stage"><div class="wrap stage-inner"><h1>Your future is <span class="hl">powering up.</span></h1><p class="lede">Explore careers in South Africa’s just energy transition: solar and wind, electric vehicles, green hydrogen and more. See what the jobs are, what to study, and where to start.</p><form class="finder" role="search" action="{{ url_for('career_guidance') }}" method="get"><label class="sr" for="finderQ">Which job are you curious about?</label><input id="finderQ" name="q" type="search" maxlength="80" placeholder="Try “solar installer”" autocomplete="off"><button class="btn btn-sun" type="submit">Find careers</button></form><p class="finder-chips"><span>Popular:</span><a href="{{ url_for('career_guidance') }}?q=solar">Solar installer</a><a href="{{ url_for('career_guidance') }}?q=electrician">Electrician</a><a href="{{ url_for('career_guidance') }}?q=welder">Welder</a><a href="{{ url_for('career_guidance') }}?q=chemical">Chemical engineer</a></p><div class="hero-actions"><a class="btn btn-sun" href="{{ url_for('career_guidance') }}#questionnaire">Take the 4-question quiz</a><a class="btn btn-outline" href="#workstreams">See the energy paths</a></div></div></section>
+
+
+{% include "_paths.html" %}
+<section id="careers" class="section section-wash"><div class="wrap"><div class="section-head"><span class="eyebrow">Your pathway in 3 steps</span><h2>From “I’m curious” to “I know my next step”</h2><p>Use our free tools to explore occupations in high demand, the qualifications that lead to them, and plain-English profiles of priority JET jobs. Everything comes from official lists and cited sources.</p></div><div class="teaser-grid"><article class="reveal"><span class="work-code">STEP 1 · FIND YOUR PATHWAY</span><h3>Career Guidance</h3><p>Answer four quick questions to see JET-related jobs that fit your qualification level and interests. Then browse the national list of jobs in high demand and a qualifications finder.</p><a class="btn btn-green" href="{{ url_for('career_guidance') }}">Start the quiz <span>↗</span></a></article><article class="reveal"><span class="work-code">STEP 2 · MEET THE JOBS</span><h3>Occupational Handbook</h3><p>Short, plain-English profiles of priority jobs in renewable energy, electric vehicles, green hydrogen and municipalities, with the qualification level and related qualifications.</p><a class="btn btn-outline" href="{{ url_for('occupational_handbook') }}">Browse the handbook <span>↗</span></a></article><article class="reveal"><span class="work-code">STEP 3 · SEE THE BIGGER PICTURE</span><h3>Analytics Dashboards</h3><p>See what the Library holds, which jobs people are exploring, and how many learners are in training, internships and work for each workstream.</p><a class="btn btn-outline" href="{{ url_for('dashboards') }}">Open the dashboards <span>↗</span></a></article></div></div></section>
+
+
+
+
+
+
+
+
+<section id="explore" class="section wrap"><div class="section-head"><span class="eyebrow">Explore the Desk</span><h2>Find your way around</h2><p>Everything has its own page, so you can go straight to what you need.</p></div><div class="explore-grid">
+<a class="ex-card reveal" style="--c:#ffb81f" href="{{ url_for('energy_paths') }}"><span aria-hidden="true">☀</span><b>Energy paths</b><small>Jobs in solar, wind, EVs and hydrogen</small></a>
+<a class="ex-card reveal" style="--c:#ff6a4d" href="{{ url_for('near_you') }}"><span aria-hidden="true">📍</span><b>Near you</b><small>Skills Development Zones and launches</small></a>
+<a class="ex-card reveal" style="--c:#25a8e0" href="{{ url_for('library') }}"><span aria-hidden="true">📚</span><b>Library</b><small>Search 240+ research resources</small></a>
+<a class="ex-card reveal" style="--c:#10b3a3" href="{{ url_for('team') }}"><span aria-hidden="true">👥</span><b>Team</b><small>Meet the people behind the Desk</small></a>
+<a class="ex-card reveal" style="--c:#7a5af8" href="{{ url_for('partners') }}"><span aria-hidden="true">🤝</span><b>Partners</b><small>Government, SETAs and more</small></a>
+<a class="ex-card reveal" style="--c:#16a05d" href="{{ url_for('about') }}"><span aria-hidden="true">ℹ</span><b>About</b><small>Mandate, plan and workplan</small></a>
+</div></section>
+<section id="news" class="section pulse"><div class="wrap"><div class="section-head"><span class="eyebrow">What's happening</span><h2>News and engagements</h2><p>Launches, new tools and milestones from the JET Skills Desk. Tap a story to read more, or filter the list to see what matters to you.</p></div>
+<div class="pulse-grid">
+<div class="pulse-feature reveal" data-news role="region" aria-roledescription="carousel" aria-label="Featured stories">
+<div class="pf-stage" aria-live="off">
+<article class="pf-slide is-active" aria-label="1 of 4"><img src="{{ url_for('static',filename='images/nc-launch/nc-launch-01.jpg') }}" alt="Five officials holding a framed certificate for the launch of the Northern Cape Skills Development Zone" width="1280" height="853" loading="lazy"><div class="pf-text"><span class="pf-tag">Launch · 19 Nov 2026</span><h3>Northern Cape Skills Development Zone officially launched</h3><p>The Premier highlighted the province's green energy advantage, mineral resources and renewable energy potential.</p><a class="btn btn-sun" href="{{ url_for('near_you') }}#northern-cape-launch">Read, watch and see photos <span>↗</span></a></div></article>
+<article class="pf-slide" aria-label="2 of 4"><img src="{{ url_for('static',filename='images/sdz-launch/sdz-launch-01.jpg') }}" alt="Five officials standing together in front of the Just Energy Transition backdrop at the Mpumalanga launch" width="1280" height="852" loading="lazy"><div class="pf-text"><span class="pf-tag">Launch · 29 Oct 2026</span><h3>Mpumalanga Skills Development Zone officially launched</h3><p>The Minister of Higher Education and Training and the Premier launched the zone in Nkangala.</p><a class="btn btn-sun" href="{{ url_for('near_you') }}#mpumalanga-launch">Read the article and see photos <span>↗</span></a></div></article>
+<article class="pf-slide pf-plain pf-a" aria-label="3 of 4"><div class="pf-art" aria-hidden="true">📚</div><div class="pf-text"><span class="pf-tag">The Library</span><h3>Over 240 research resources, open to everyone</h3><p>Search by title, author or keyword and filter by theme, type and year. Great for assignments and lesson planning.</p><a class="btn btn-sun" href="{{ url_for('library') }}">Search the Library <span>↗</span></a></div></article>
+<article class="pf-slide pf-plain pf-b" aria-label="4 of 4"><div class="pf-art" aria-hidden="true">🧭</div><div class="pf-text"><span class="pf-tag">New in preview</span><h3>Career Guidance and the Occupational Handbook</h3><p>Take the four-question quiz, explore jobs in high demand and find the qualifications that lead to them.</p><a class="btn btn-sun" href="{{ url_for('career_guidance') }}#questionnaire">Start the quiz <span>↗</span></a></div></article>
+</div>
+<div class="pf-bar"><div class="pf-dots" role="tablist" aria-label="Choose a story"></div><div class="pf-ctrl"><button type="button" class="pf-btn" data-news-prev aria-label="Previous story">‹</button><button type="button" class="pf-btn" data-news-toggle aria-label="Pause stories" aria-pressed="false">❚❚</button><button type="button" class="pf-btn" data-news-next aria-label="Next story">›</button></div></div>
+</div>
+<aside class="pulse-list reveal" aria-label="Latest news"><div class="pl-head"><h3>Latest</h3></div>
+<ul class="pl-items">
+<li data-cat="launch"><time class="dbadge" datetime="2026-11-19"><b>19</b><span>NOV</span></time><div><a href="{{ url_for('near_you') }}#northern-cape-launch">Northern Cape Skills Development Zone officially launched</a><small>Launch · with photos and video</small></div></li>
+<li data-cat="launch"><time class="dbadge" datetime="2026-10-29"><b>29</b><span>OCT</span></time><div><a href="{{ url_for('near_you') }}#mpumalanga-launch">Mpumalanga Skills Development Zone officially launched</a><small>Launch · with photos</small></div></li>
+
+
+
+
+</ul><p class="pl-empty" hidden>Nothing here yet. Try another filter.</p></aside>
+</div>
+<div class="pulse-next reveal"><h3>What's next</h3><div class="pn-grid"><article><time class="dbadge dbadge-soon"><b>TBA</b><span>DATE</span></time><div><b>Eastern Cape Skills Development Zone launch</b><p>Focused on new energy vehicles. The date will be announced.</p></div></article></div></div>
+</div></section>
+{% endblock %}
+{% block scripts %}<script src="{{ url_for('static',filename='js/slideshow.js') }}" defer></script>{% endblock %}
